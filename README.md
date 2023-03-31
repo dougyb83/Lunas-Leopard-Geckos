@@ -1,5 +1,11 @@
 # LUNAS LEOPARD GECKOS
 
+Luna's Leopard Geckos are an enthusiastic hobbyist breeder. They have been successfully breeding geckos for 5 years with their most recent aim to reach a wider audience of like minded reptile keepers and provide them with high quality and healthy pets.
+
+On this site users will find a brief description of who the client is, reassuring users that they will be purchasing from a reputable breeder. Users can also find a catalogue of available geckos along with a FAQ page that will be especially helpful to new keepers.
+
+Users can get in contact with the client via the contact page or by redirecting to their social pages.
+
 ⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
 
 In this section, you will include a few paragraphs providing an overview of your project.
