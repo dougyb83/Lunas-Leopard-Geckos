@@ -1,10 +1,4 @@
-# LUNAS LEOPARD GECKOS
-
-Luna's Leopard Geckos are an enthusiastic hobbyist breeder. They have been successfully breeding geckos for 5 years with their most recent aim to reach a wider audience of like minded reptile keepers and provide them with high quality and healthy pets.
-
-On this site users will find a brief description of who the client is, reassuring users that they will be purchasing from a reputable breeder. Users can also find a catalogue of available geckos along with a FAQ page that will be especially helpful to new keepers.
-
-Users can get in contact with the client via the contact page or by redirecting to their social pages.
+# LUNA'S LEOPARD GECKOS
 
 ⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
 
@@ -36,11 +30,7 @@ https://pandao.github.io/editor.md/en.html
 
 ## UX
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-In this section, you will briefly explain your design processes.
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+Once the user hits the landing page I wanted it to be clear that the site is focused on Leopard geckos. As Leopard geckos are naturally very colourful, bright and vibrant it makes sense to have a picture of one as the main focus point. This will be the hero image. It will be the full width of the screen but will not be the full height so that users can see that there is more to see below if they were to scroll down.
 
 ### Colour Scheme
 
@@ -49,6 +39,8 @@ In this section, you will briefly explain your design processes.
 Explain your colours and the colour scheme.
 
 🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+
+Leopard geckos can have many bright colours, but the most common are yellow or orange with black and white stripes and dots. this will influence the colour scheme using a deep orange for logo's, links and buttons. White for the text and black/grey for the background and nav bar.
 
 - `#000000` used for primary text.
 - `#E84610` used for primary highlights.
@@ -103,9 +95,7 @@ Example:
 🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
 - [Montserrat](https://fonts.google.com/specimen/Montserrat) was used for the primary headers and titles.
-
 - [Lato](https://fonts.google.com/specimen/Lato) was used for all other secondary text.
-
 - [Font Awesome](https://fontawesome.com) icons were used throughout the site, such as the social media icons in the footer.
 
 ## User Stories
@@ -142,46 +132,35 @@ In this section, list all of your user stories for the project.
 
 ## Wireframes
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-In this section, display your wireframe screenshots using a Markdown `table`.
-
-Instructions on how to do Markdown `tables` start on line #213 on this site: https://pandao.github.io/editor.md/en.html
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
 To follow best practice, wireframes were developed for mobile, tablet, and desktop sizes.
 I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wireframes.
 
-### Home Page Wireframes
+### Mobile Wireframes
 
-| Size | Screenshot |
-| --- | --- |
-| Mobile | ![screenshot](documentation/wireframes/mobile-home.png) |
-| Tablet | ![screenshot](documentation/wireframes/tablet-home.png) |
-| Desktop | ![screenshot](documentation/wireframes/desktop-home.png) |
+| Size                  | Screenshot                                                        |
+| --------------------- | ----------------------------------------------------------------- |
+| Home Page             | ![screenshot](documentation/wireframes/mobile-home.png)             |
+| Available Geckos Page | ![screenshot](documentation/wireframes/mobile-available-geckos.png) |
+| FAQ Page              | ![screenshot](documentation/wireframes/mobile-faq.png)              |
+| Contact Page          | ![screenshot](documentation/wireframes/mobile-contact-us.png)       |
 
-### About Page Wireframes
+### Tablet Wireframes
 
-| Size | Screenshot |
-| --- | --- |
-| Mobile | ![screenshot](documentation/wireframes/mobile-about.png) |
-| Tablet | ![screenshot](documentation/wireframes/tablet-about.png) |
-| Desktop | ![screenshot](documentation/wireframes/desktop-about.png) |
+| Size                  | Screenshot                                                        |
+| --------------------- | ----------------------------------------------------------------- |
+| Home Page             | ![screenshot](documentation/wireframes/tablet-home.png)             |
+| Available Geckos Page | ![screenshot](documentation/wireframes/tablet-available-geckos.png) |
+| FAQ Page              | ![screenshot](documentation/wireframes/tablet-faq.png)              |
+| Contact Page          | ![screenshot](documentation/wireframes/tablet-contact-us.png)       |
 
-### Contact Page Wireframes
+### Desktop Wireframes
 
-| Size | Screenshot |
-| --- | --- |
-| Mobile | ![screenshot](documentation/wireframes/mobile-contact.png) |
-| Tablet | ![screenshot](documentation/wireframes/tablet-contact.png) |
-| Desktop | ![screenshot](documentation/wireframes/desktop-contact.png) |
-
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-Repeat for any addition wireframe pages you have.
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+| Size                  | Screenshot                                                         |
+| --------------------- | ------------------------------------------------------------------ |
+| Home Page             | ![screenshot](documentation/wireframes/desktop-home.png)             |
+| Available Geckos Page | ![screenshot](documentation/wireframes/desktop-available-geckos.png) |
+| FAQ Page              | ![screenshot](documentation/wireframes/desktop-faq.png)              |
+| Contact Page          | ![screenshot](documentation/wireframes/desktop-contact-us.png)       |
 
 ## Features
 
@@ -204,19 +183,19 @@ IMPORTANT: Remember to always include a screenshot of each individual feature!
 
 - **Title for feature #1**
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+  - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
 
 ![screenshot](documentation/feature01.png)
 
 - **Title for feature #2**
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+  - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
 
 ![screenshot](documentation/feature02.png)
 
 - **Title for feature #3**
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+  - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
 
 ![screenshot](documentation/feature03.png)
 
@@ -240,11 +219,11 @@ Consider adding any helpful links or notes to help remind you in the future, if 
 🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
 - Title for future feature #1
-    - Any additional notes about this feature.
+  - Any additional notes about this feature.
 - Title for future feature #2
-    - Any additional notes about this feature.
+  - Any additional notes about this feature.
 - Title for future feature #3
-    - Any additional notes about this feature.
+  - Any additional notes about this feature.
 
 ## Tools & Technologies Used
 
@@ -288,7 +267,8 @@ For all testing, please refer to the [TESTING.md](TESTING.md) file.
 ## Deployment
 
 The site was deployed to GitHub Pages. The steps to deploy are as follows:
-- In the [GitHub repository](https://github.com/dougyb83/Lunas-Leopard-Geckos), navigate to the Settings tab 
+
+- In the [GitHub repository](https://github.com/dougyb83/Lunas-Leopard-Geckos), navigate to the Settings tab
 - From the source section drop-down menu, select the **Main** Branch, then click "Save".
 - The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
@@ -302,13 +282,13 @@ This project can be cloned or forked in order to make a local copy on your own s
 
 You can clone the repository by following these steps:
 
-1. Go to the [GitHub repository](https://github.com/dougyb83/Lunas-Leopard-Geckos) 
-2. Locate the Code button above the list of files and click it 
+1. Go to the [GitHub repository](https://github.com/dougyb83/Lunas-Leopard-Geckos)
+2. Locate the Code button above the list of files and click it
 3. Select if you prefer to clone using HTTPS, SSH, or GitHub CLI and click the copy button to copy the URL to your clipboard
 4. Open Git Bash or Terminal
 5. Change the current working directory to the one where you want the cloned directory
 6. In your IDE Terminal, type the following command to clone my repository:
-	- `git clone https://github.com/dougyb83/Lunas-Leopard-Geckos.git`
+   - `git clone https://github.com/dougyb83/Lunas-Leopard-Geckos.git`
 7. Press Enter to create your local clone.
 
 Alternatively, if using Gitpod, you can click below to create your own workspace using this repository.
@@ -356,20 +336,20 @@ Ideally, you should provide an actual link to every resource used, not just a ge
 
 🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
-| Source | Location | Notes |
-| --- | --- | --- |
-| [Markdown Builder](https://traveltimn.github.io/markdown-builder) | README and TESTING | tool to help generate the Markdown files |
-| [Chris Beams](https://chris.beams.io/posts/git-commit) | version control | "How to Write a Git Commit Message" |
-| [W3Schools](https://www.w3schools.com/howto/howto_js_topnav_responsive.asp) | entire site | responsive HTML/CSS/JS navbar |
-| [W3Schools](https://www.w3schools.com/howto/howto_css_modals.asp) | contact page | interactive pop-up (modal) |
-| [W3Schools](https://www.w3schools.com/css/css3_variables.asp) | entire site | how to use CSS :root variables |
-| [Flexbox Froggy](https://flexboxfroggy.com/) | entire site | modern responsive layouts |
-| [Grid Garden](https://cssgridgarden.com) | entire site | modern responsive layouts |
-| [StackOverflow](https://stackoverflow.com/a/2450976) | quiz page | Fisher-Yates/Knuth shuffle in JS |
-| [YouTube](https://www.youtube.com/watch?v=YL1F4dCUlLc) | leaderboard | using `localStorage()` in JS for high scores |
-| [YouTube](https://www.youtube.com/watch?v=u51Zjlnui4Y) | PP3 terminal | tutorial for adding color to the Python terminal |
-| [strftime](https://strftime.org) | CRUD functionality | helpful tool to format date/time from string |
-| [WhiteNoise](http://whitenoise.evans.io) | entire site | hosting static files on Heroku temporarily |
+| Source                                                                   | Location           | Notes                                            |
+| ------------------------------------------------------------------------ | ------------------ | ------------------------------------------------ |
+| [Markdown Builder](https://traveltimn.github.io/markdown-builder)           | README and TESTING | tool to help generate the Markdown files         |
+| [Chris Beams](https://chris.beams.io/posts/git-commit)                      | version control    | "How to Write a Git Commit Message"              |
+| [W3Schools](https://www.w3schools.com/howto/howto_js_topnav_responsive.asp) | entire site        | responsive HTML/CSS/JS navbar                    |
+| [W3Schools](https://www.w3schools.com/howto/howto_css_modals.asp)           | contact page       | interactive pop-up (modal)                       |
+| [W3Schools](https://www.w3schools.com/css/css3_variables.asp)               | entire site        | how to use CSS :root variables                   |
+| [Flexbox Froggy](https://flexboxfroggy.com/)                                | entire site        | modern responsive layouts                        |
+| [Grid Garden](https://cssgridgarden.com)                                    | entire site        | modern responsive layouts                        |
+| [StackOverflow](https://stackoverflow.com/a/2450976)                        | quiz page          | Fisher-Yates/Knuth shuffle in JS                 |
+| [YouTube](https://www.youtube.com/watch?v=YL1F4dCUlLc)                      | leaderboard        | using `localStorage()` in JS for high scores   |
+| [YouTube](https://www.youtube.com/watch?v=u51Zjlnui4Y)                      | PP3 terminal       | tutorial for adding color to the Python terminal |
+| [strftime](https://strftime.org)                                            | CRUD functionality | helpful tool to format date/time from string     |
+| [WhiteNoise](http://whitenoise.evans.io)                                    | entire site        | hosting static files on Heroku temporarily       |
 
 ### Media
 
@@ -387,17 +367,17 @@ by sending yourself the following command: `!freemedia`.
 
 🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
-| Source | Location | Type | Notes |
-| --- | --- | --- | --- |
-| [Pexels](https://www.pexels.com) | entire site | image | favicon on all pages |
-| [Lorem Picsum](https://picsum.photos) | home page | image | hero image background |
-| [Unsplash](https://unsplash.com) | product page | image | sample of fake products |
-| [Pixabay](https://pixabay.com) | gallery page | image | group of photos for gallery |
-| [Wallhere](https://wallhere.com) | footer | image | background wallpaper image in the footer |
-| [This Person Does Not Exist](https://thispersondoesnotexist.com) | testimonials | image | headshots of fake testimonial images |
-| [Audio Micro](https://www.audiomicro.com/free-sound-effects) | game page | audio | free audio files to generate the game sounds |
-| [Videvo](https://www.videvo.net/) | home page | video | background video on the hero section |
-| [TinyPNG](https://tinypng.com) | entire site | image | tool for image compression |
+| Source                                                        | Location     | Type  | Notes                                        |
+| ------------------------------------------------------------- | ------------ | ----- | -------------------------------------------- |
+| [Pexels](https://www.pexels.com)                                 | entire site  | image | favicon on all pages                         |
+| [Lorem Picsum](https://picsum.photos)                            | home page    | image | hero image background                        |
+| [Unsplash](https://unsplash.com)                                 | product page | image | sample of fake products                      |
+| [Pixabay](https://pixabay.com)                                   | gallery page | image | group of photos for gallery                  |
+| [Wallhere](https://wallhere.com)                                 | footer       | image | background wallpaper image in the footer     |
+| [This Person Does Not Exist](https://thispersondoesnotexist.com) | testimonials | image | headshots of fake testimonial images         |
+| [Audio Micro](https://www.audiomicro.com/free-sound-effects)     | game page    | audio | free audio files to generate the game sounds |
+| [Videvo](https://www.videvo.net/)                                | home page    | video | background video on the hero section         |
+| [TinyPNG](https://tinypng.com)                                   | entire site  | image | tool for image compression                   |
 
 ### Acknowledgements
 
