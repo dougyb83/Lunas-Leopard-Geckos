@@ -1,13 +1,15 @@
+
 .hero-container {
     height: 80vh;
+    width: 100vw;
+    background-color: black;
+}
+
+.hero-image {
+    height: 80vh;
+    width: 100vw;
     background: url(../images/gecko-1.jpg);
     -webkit-background-size: cover;
     -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-    
+    -o-background-size: cover;   
 }
