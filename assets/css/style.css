@@ -1,3 +1,8 @@
+body {
+    background-color: black;
+    color: #fafafa;
+}
+
 /* ============================================== Navbar */
 .nav-container {
     position: absolute;
@@ -13,7 +18,7 @@
 
 /* ============================================== containers */
 .hero-image {
-    height: 80vh;
+    height: 85vh;    
     background: url(../images/gecko-1.jpg);
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -28,17 +33,50 @@
 }
 
 /* From Whiskey Drop project */
-.opaque-overlay {
+/* .opaque-overlay {
     position: absolute;
     top: 0;
     left: 0;
     height: 100%;
     width: 100%;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.25);
+} */
+
+.about-container {
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
+.about {
+    /* width: 50%; */
+}
 
+.container-right {
+    float: right;
+    width: 50%;
+    margin: 0.3em 0 1.5em 1.5em;
+}
+
+.about-image {
+    width: 100%;
+}
+
+.about p {
+    font-size: large;
+    font-weight: 600;
+}
 
 h1 {
     color: #fafafa;
 }
+
+hr {
+    border: 0;
+    width: 50%;
+    height: 2px;
+    padding-top: 5px;
+
+    background-color: #f2561d;
+
+}
+
