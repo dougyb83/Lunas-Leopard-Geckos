@@ -1,13 +1,19 @@
-
-.hero-container {
-    height: 80vh;
-    width: 100vw;
-    background-color: black;
+/* ============================================== Navbar */
+.nav-container {
+    position: absolute;
+    z-index: 1;
+    padding-left: 0;
+    padding-right: 0;
 }
 
+.navbar {
+    width: 100%;
+    border: 0;
+}
+
+/* ============================================== containers */
 .hero-image {
     height: 80vh;
-    width: 100vw;
     background: url(../images/gecko-1.jpg);
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -30,6 +36,8 @@
     width: 100%;
     background-color: rgba(0, 0, 0, 0.5);
 }
+
+
 
 h1 {
     color: #fafafa;
