@@ -33,36 +33,40 @@ body {
 }
 
 /* From Whiskey Drop project */
-/* .opaque-overlay {
+.opaque-overlay {
     position: absolute;
     top: 0;
     left: 0;
     height: 100%;
     width: 100%;
     background-color: rgba(0, 0, 0, 0.25);
-} */
+}
 
 .about-container {
     padding-top: 30px;
     padding-bottom: 30px;
 }
 
-.about {
-    /* width: 50%; */
-}
-
-.container-right {
-    float: right;
+.image-container {
     width: 50%;
-    margin: 0.3em 0 1.5em 1.5em;
 }
 
 .about-image {
     width: 100%;
+    padding: 0;
+}
+
+.about {
+    width: 50%;
+}
+
+.about h2 {
+    color: #f2561d;
+    padding-bottom: 5px;
 }
 
 .about p {
-    font-size: large;
+    font-size: 24px;
     font-weight: 600;
 }
 
@@ -73,10 +77,29 @@ h1 {
 hr {
     border: 0;
     width: 50%;
-    height: 2px;
-    padding-top: 5px;
-
-    background-color: #f2561d;
-
+    height: 5px;
+    background-color: #f23207;
 }
 
+
+
+@media screen and (max-width: 992px) {
+    .image-container {
+        width: 80%;
+        
+    }
+
+    .about {
+        text-align: center;
+    }
+
+    .about-container {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .about p {
+        font-size: 18px;
+        font-weight: 400;
+    }
+}
