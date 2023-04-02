@@ -5,7 +5,7 @@ body {
 
 /* ============================================== Navbar */
 .nav-container {
-    position: absolute;
+    position: fixed;
     z-index: 1;
     padding-left: 0;
     padding-right: 0;
@@ -46,7 +46,7 @@ body {
 /* From Whiskey Drop project */
 .footer-image {
     height: 50vh;    
-    background: url(../images/footer-image-2.jpg) center center;
+    background: url(../images/footer-image.jpg) center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;   
