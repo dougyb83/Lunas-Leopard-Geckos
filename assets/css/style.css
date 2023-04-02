@@ -42,6 +42,30 @@ body {
     background-color: rgba(0, 0, 0, 0.25);
 }
 
+.footer-image {
+    height: 50vh;    
+    background: url(../images/footer-image.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;   
+    background-size: cover;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+
+.footer-opaque-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.25);
+}
+
 .about-container {
     padding-top: 30px;
     padding-bottom: 30px;
