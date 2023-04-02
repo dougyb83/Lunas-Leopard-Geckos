@@ -17,6 +17,7 @@ body {
 }
 
 /* ============================================== containers */
+/* From Whiskey Drop project */
 .hero-image {
     height: 85vh;    
     background: url(../images/gecko-1.jpg);
@@ -42,28 +43,29 @@ body {
     background-color: rgba(0, 0, 0, 0.25);
 }
 
+/* From Whiskey Drop project */
 .footer-image {
     height: 50vh;    
-    background: url(../images/footer-image.jpg);
+    background: url(../images/footer-image-2.jpg) center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;   
-    background-size: cover;
-    
+    background-size: cover;    
     display: flex;
     align-items: center;
     justify-content: center;
-
     position: relative;
+    margin-top: 70px;
 }
 
+/* From Whiskey Drop project */
 .footer-opaque-overlay {
     position: absolute;
     top: 0;
     left: 0;
     height: 100%;
     width: 100%;
-    background-color: rgba(0, 0, 0, 0.25);
+    background-color: rgba(0, 0, 0, 0.5);
 }
 
 .about-container {
