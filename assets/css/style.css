@@ -25,13 +25,6 @@ body {
 
 }
 
-.navbar-collapse {
-    /* height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center; */
-}
-
 .bg-dark {
     background-color: #1c1c1c!important;
 }
@@ -42,9 +35,6 @@ body {
     text-align: center;
 }
 
-nav img {
-    
-}
 
 /* ============================================== containers */
 /* From Whiskey Drop project */
@@ -73,7 +63,6 @@ nav img {
     background-color: rgba(0, 0, 0, 0.25);
 }
 
-/* From Whiskey Drop project */
 .footer-image {
     height: 50vh;    
     background: url(../images/footer-image.jpg) center center;
@@ -88,7 +77,6 @@ nav img {
     margin-top: 70px;
 }
 
-/* From Whiskey Drop project */
 .footer-opaque-overlay {
     position: absolute;
     top: 0;
@@ -135,32 +123,23 @@ nav img {
 }
 
 #stat-gal-one {
-    /* left: 80px; */
     width: 15%;
-    /* z-index: 0; */
 }
 
 #stat-gal-two {
-    /* left: 50px; */
     width: 20%;
-    /* z-index: 1; */
 }
 
 #stat-gal-three {
     width: 25%;
-    /* z-index: 2; */
 }
 
 #stat-gal-four {
-    /* right: 50px; */
     width: 20%;
-    /* z-index: 1; */
 }
 
 #stat-gal-five {
-    /* right: 80px; */
     width: 15%;
-    /* z-index: 0; */
 }
 
 h1 {
@@ -194,5 +173,18 @@ hr {
     .about p {
         font-size: 18px;
         font-weight: 400;
+    }
+
+    .nav-link {
+        font-size: 18px;
+        margin: 0 5px 0 5px;
+        text-align: center;
+    }
+
+    .navbar-collapse {
+        /* height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center; */
     }
 }
