@@ -1,6 +1,6 @@
 # LUNA'S LEOPARD GECKOS
 
-Luna's Leopard Geckos are an enthusiastic hobbyist breeder. They have been successfully breeding geckos for 5 years with their most recent aim to reach a wider audience of like minded reptile keepers and provide them with high quality and healthy pets.
+Luna's Leopard Geckos are an enthusiastic hobbyist breeder. They have been successfully breeding geckos for many years with their most recent aim to reach a wider audience of like minded reptile keepers and provide them with high quality and healthy pets.
 
 On this site users will find a brief description of who the client is, reassuring users that they will be purchasing from a reputable breeder. Users can also find a catalogue of available geckos along with a FAQ page that will be especially helpful to new keepers.
 
@@ -36,57 +36,20 @@ https://pandao.github.io/editor.md/en.html
 
 ## UX
 
-Once the user hits the landing page I wanted it to be clear that the site is focused on Leopard geckos. As Leopard geckos are naturally very colourful, bright and vibrant it makes sense to have a picture of one as the main focus point. This will be the hero image. It will be the full width of the screen but will not be the full height so that users can see that there is more to see below if they were to scroll down.
+Upon landing on the home page I wanted it to be clear to the user that the site is focused on Leopard geckos and selling them. As Leopard geckos are naturally very colourful, bright and vibrant it makes sense to have a picture of one as the main focus point. This will be the hero image. It will be the full width of the screen but will not be the full height so that users can see that there is more to see below if they were to scroll down.
 
 ### Colour Scheme
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
+Leopard geckos can have many bright colours, but the most common are yellow or orange with black and white stripes and dots. this will influence the colour scheme using black/grey for the background and nav bar, yellow for logo's and orange for buttons and sub headings. But keeping main titles and text white as I feel adding colours to these made them more difficult to read.
 
-Explain your colours and the colour scheme.
+- `#f1fef5` used for primary text.
+- `#ff5d00` used for primary highlights.
+- `#e0ece4` used for secondary text.
+- `#dcc429` used for secondary highlights.
 
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+I used [coolors.co](https://coolors.co/ff5d00-dcc429-e0ece4-f1fef5) to generate my colour palette.
 
-Leopard geckos can have many bright colours, but the most common are yellow or orange with black and white stripes and dots. this will influence the colour scheme using a deep orange for logo's, links and buttons. White for the text and black/grey for the background and nav bar.
-
-- `#000000` used for primary text.
-- `#E84610` used for primary highlights.
-- `#4A4A4F` used for secondary text.
-- `#009FE3` used for secondary highlights.
-
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-Consider adding a link and screenshot for your colour scheme using "coolors".
-https://coolors.co/generate
-
-When you add a colour to the palette, the URL is dynamically updated, making it easier for you to return back to your colour palette later if needed.
-
-Example:
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-I used [coolors.co](https://coolors.co/e84610-009fe3-4a4a4f-445261-d63649-e6ecf0-000000) to generate my colour palette.
-
-![screenshot](documentation/coolors.png)
-
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-If you've used CSS `:root` variables, consider also including a code snippet here!
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-I've used CSS `:root` variables to easily update the global colour scheme by changing only one value, instead of everywhere in the CSS file.
-
-```css
-:root {
-    /* P = Primary | S = Secondary */
-    --p-text: #000000;
-    --p-highlight: #E84610;
-    --s-text: #4A4A4F;
-    --s-highlight: #009FE3;
-    --white: #FFFFFF;
-    --black: #000000;
-}
-```
+![screenshot](documentation/colour-pallete.png)
 
 ### Typography
 
