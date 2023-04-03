@@ -41,7 +41,7 @@
                 <section class="callout jumbotron text-center">
                     <h1>Luna's Leopard Geckos</h1>
                     <p class="lead">We breed and sell quality leopard geckos.</p>
-                    <button>Sign Up!</button>                    
+                    <button type="button" class="btn btn-outline">Find out more!</button>                    
                 </section>
             </div>
         </div>       
@@ -69,21 +69,35 @@
     <hr> 
     <div class="static-gallery">
         <h2>Available Geckos</h2>
-        <img id="stat-gal-one" src="assets/images/gallery-1.jpg" alt="">
-        <img id="stat-gal-two" src="assets/images/gallery-2.jpg" alt="">
-        <img id="stat-gal-three" src="assets/images/gallery-3.jpg" alt="">
-        <img id="stat-gal-four" src="assets/images/gallery-4.jpg" alt="">
-        <img id="stat-gal-five" src="assets/images/gallery-5.jpg" alt="">   
-        <p><a href="#">Find out more</a></p>         
+        <div class="d-none d-sm-block">
+            <img id="stat-gal-one" src="assets/images/gallery-1.jpg" alt="">
+            <img id="stat-gal-two" src="assets/images/gallery-2.jpg" alt="">
+            <img id="stat-gal-three" src="assets/images/gallery-3.jpg" alt="">
+            <img id="stat-gal-four" src="assets/images/gallery-4.jpg" alt="">
+            <img id="stat-gal-five" src="assets/images/gallery-5.jpg" alt=""> 
+        </div>
+        <div class="row d-block d-sm-none">
+            <div class="col-12 small-gal">
+                <img src="assets/images/gallery-3.jpg" alt="">
+                <img src="assets/images/gallery-4.jpg" alt="">
+            </div>
+        </div>  
+        <p><a class="btn btn-outline" href="#">Find out more</a></p>         
     </div>   
     <footer>
         <div class="container-fluid footer-image">
             <div class="footer-opaque-overlay"></div> 
-            <div class="footer-logo"><a href="/index.html"><img width="250" src="assets/images/logo.png" alt="circular logo of gecko hand"></a></div>
+            <div class="footer-logo d-none d-sm-block"><a href="/index.html"><img src="assets/images/logo.png" alt="circular logo of gecko hand"></a></div>
             <div class="socials">
-                <i class="fa-brands fa-square-facebook"></i>
-                <i class="fa-brands fa-instagram"></i>
-                <i class="fa-brands fa-square-twitter"></i>
+                <a href="https://www.facebook.com/" target="_blank">
+                    <i class="fa-brands fa-square-facebook"></i>
+                    <span class="sr-only">Facebook</span></a>
+                <a href="https://www.instagram.com/" target="_blank">
+                    <i class="fa-brands fa-instagram"></i>
+                    <span class="sr-only">Instagram</span></a>
+                <a href="https://twitter.com/" target="_blank">
+                    <i class="fa-brands fa-square-twitter"></i>
+                    <span class="sr-only">Twitter</span></a>
             </div>           
         </div>
     </footer>
