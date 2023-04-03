@@ -1,3 +1,4 @@
+/*-- Credit for solution to horizontal space on right side on small screens to Stackoverflow --*/
 html {
     overflow-x: hidden;
 }
@@ -59,9 +60,9 @@ a {
     text-align: center;
 }
 
-
 /* ============================================== Hero Image */
-/* From Whiskey Drop project */
+
+/*-- Credit to Matt Rudge, Code Institute for hero-image, Opaque Overlay and Jumbotron from Whiskey Drop project--*/
 .hero-image {
     height: 85vh;    
     background: url(../images/gecko-1.jpg);
@@ -78,7 +79,6 @@ a {
     margin-bottom: 30px;
 }
 
-/* From Whiskey Drop project */
 .opaque-overlay {
     position: absolute;
     top: 0;
@@ -95,26 +95,21 @@ a {
     color: #ff5d00;
     padding: 10px 20px;
     font-size: 16px;
-    cursor: pointer;
-    
+    cursor: pointer;    
   }
 
 .btn-outline {
     border-radius: 100px;
     font-weight: 600 !important;
-    border-color: #ff5d00;
-    
-    
+    border-color: #ff5d00;    
 }
 
 .btn-outline:hover {
     background-color: #ff5d00;
-    color: #ffffff;
-
+    color: #ffffff;    
 }
 
 /* =================================================Jumbotron */
-
 .jumbotron {
     background-color: transparent;
     margin-top: 450px;
@@ -133,58 +128,7 @@ a {
     margin: 20px 0;
 }
 
-/* ============================================== Footer*/
-.footer-image {
-    height: 30vh;    
-    background: url(../images/footer-image.jpg) center center;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;   
-    background-size: cover;    
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    position: relative;
-    margin-top: 70px;
-}
-
-.footer-opaque-overlay {
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 100%;
-    width: 100%;
-    background-color: rgba(0, 0, 0, 0.5);
-}
-
-.footer-logo {
-    z-index: 1;
-    position: absolute;
-    left: 30px;
-}
-
-.footer-logo img {
-    height: 200px;
-}
-
-.socials {
-    z-index: 1;
-    position: absolute;
-    bottom: 50px;
-}
-
-.socials i {
-    color: #ffffff;
-    font-size: 80px;
-    margin-left: 30px;
-    margin-right: 30px;
-}
-
-.socials i:hover {
-    color: #1c1c1c;
-}
-
-/* ============================================== Containers */
+/* ============================================== About section */
 .about-container {
     padding-top: 30px;
     padding-bottom: 30px;
@@ -253,8 +197,56 @@ a {
     width: 45%;
 }
 
+/* ============================================== Footer*/
+.footer-image {
+    height: 30vh;    
+    background: url(../images/footer-image.jpg) center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;   
+    background-size: cover;    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    margin-top: 70px;
+}
 
+.footer-opaque-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
 
+.footer-logo {
+    z-index: 1;
+    position: absolute;
+    left: 30px;
+}
+
+.footer-logo img {
+    height: 200px;
+}
+
+.socials {
+    z-index: 1;
+    position: absolute;
+    bottom: 50px;
+}
+
+.socials i {
+    color: #ffffff;
+    font-size: 80px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.socials i:hover {
+    color: #1c1c1c;
+}
 
 @media screen and (max-width: 992px) {
     .image-container {
