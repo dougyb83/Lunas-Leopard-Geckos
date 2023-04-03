@@ -9,10 +9,17 @@ h2 {
 }
 
 hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
     border: 0;
     width: 50%;
     height: 2px;
     background-color: #ff5d00;
+}
+
+a {
+    color: #ff5d00;
+    text-decoration: none;
 }
 
 /* ============================================== Navbar */
@@ -63,6 +70,7 @@ hr {
     justify-content: center;
 
     position: relative;
+    margin-bottom: 30px;
 }
 
 /* From Whiskey Drop project */
@@ -94,14 +102,6 @@ hr {
     font-size: 1.5rem;
     margin: 20px 0;
 }
-
-/* .hero-image h1 {
-    color: #ffffff;
-    z-index: 1;
-    position: relative;
-    top: 150px;
-} */
-
 
 /* ============================================== Hero Image */
 .footer-image {
@@ -160,16 +160,16 @@ hr {
     text-align: center;
 }
 
-.static-gallery h2{    
-    padding-bottom: 5px;
+.static-gallery h2 {
+    margin: 30px 0;
+}
+
+.static-gallery p {
+    margin: 20px 0;
 }
 
 .static-gallery img {
     border-radius: 5px;
-}
-
-.static-gallery a {
-    text-decoration: none;
 }
 
 #stat-gal-one {
@@ -195,11 +195,9 @@ hr {
 
 
 
-
 @media screen and (max-width: 992px) {
     .image-container {
-        width: 80%;
-        
+        width: 80%;        
     }
 
     .about {
@@ -220,6 +218,24 @@ hr {
         font-size: 18px;
         margin: 0 5px 0 5px;
         text-align: center;
+    }
+
+    .jumbotron {
+        background-color: transparent;
+        margin-top: 300px;
+    }
+
+    .jumbotron h1 {
+        color: #ffffff;
+        font-size: 3rem;
+        font-weight: bold;
+        margin-bottom: 5px;
+    }
+    
+    .jumbotron .lead {
+        color: #ffffff;
+        font-size: 1rem;
+        margin: 10px 0;
     }
 
     .navbar-collapse {
