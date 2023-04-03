@@ -103,7 +103,7 @@ a {
     margin: 20px 0;
 }
 
-/* ============================================== Hero Image */
+/* ============================================== Footer*/
 .footer-image {
     height: 50vh;    
     background: url(../images/footer-image.jpg) center center;
@@ -125,6 +125,24 @@ a {
     height: 100%;
     width: 100%;
     background-color: rgba(0, 0, 0, 0.5);
+}
+
+.footer-logo {
+    z-index: 1;
+    position: absolute;
+    left: 30px;
+}
+
+.socials {
+    z-index: 1;
+    position: absolute;
+    bottom: 80px;
+}
+
+.socials i {
+    font-size: 80px;
+    margin-left: 30px;
+    margin-right: 30px;
 }
 
 /* ============================================== Containers */
