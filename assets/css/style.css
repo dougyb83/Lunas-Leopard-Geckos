@@ -1,5 +1,3 @@
-/* @import url('https://fonts.googleapis.com/css2?family=Averia+Gruesa+Libre&family=Montserrat:wght@300;400;500;600;700;800&family=Sarala:wght@400;700&display=swap'); */
-
 /*-- Credit for solution to horizontal space on right side on small screens to Stackoverflow --*/
 html {
     overflow-x: hidden;
@@ -129,7 +127,7 @@ a {
 }
 
 .jumbotron .lead {
-    font-family: 'Sarala', sans-serif;
+    font-family: 'Averia Gruesa Libre', cursive;
     color: #f1fef5;
     font-size: 1.5rem;
     margin: 20px 0;
