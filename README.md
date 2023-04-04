@@ -53,18 +53,11 @@ I used [coolors.co](https://coolors.co/ff5d00-dcc429-e0ece4-f1fef5) to generate 
 
 ### Typography
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
+I used [fontjoy.com](https://fontjoy.com/) to generate font pairings as follows:
 
-Explain any fonts and icon libraries used, like Google Fonts and/or Font Awesome.
-
-Consider adding a link to each font used, and the Font Awesome site if used (or similar icon library).
-
-Example:
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-- [Montserrat](https://fonts.google.com/specimen/Montserrat) was used for the primary headers and titles.
-- [Lato](https://fonts.google.com/specimen/Lato) was used for all other secondary text.
+- [Montserrat](https://fonts.google.com/specimen/Montserrat) was used for the primary headers.
+- [Averia Gruesa Libre](https://fonts.google.com/specimen/Averia+Gruesa+Libre) was used for sub headings.
+- [Sarala](https://fonts.google.com/specimen/Sarala) was used for all other secondary text.
 - [Font Awesome](https://fontawesome.com) icons were used throughout the site, such as the social media icons in the footer.
 
 ## User Stories

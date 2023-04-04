@@ -1,3 +1,5 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Averia+Gruesa+Libre&family=Montserrat:wght@300;400;500;600;700;800&family=Sarala:wght@400;700&display=swap'); */
+
 /*-- Credit for solution to horizontal space on right side on small screens to Stackoverflow --*/
 html {
     overflow-x: hidden;
@@ -10,6 +12,7 @@ body {
 }
 
 h2 {
+    font-family: 'Averia Gruesa Libre', cursive;
     color: #ff5d00;
     font-weight: 400;
 }
@@ -37,6 +40,7 @@ a {
 }
 
 .navbar {
+    font-family: 'Montserrat', sans-serif;
     width: 100%;
     padding: 2px 10px 2px 10px;
 }
@@ -90,6 +94,7 @@ a {
 
 /* inspiration for button from https://www.w3schools.com/howto/howto_css_outline_buttons.asp */
 .btn {
+    font-family: 'Sarala', sans-serif;
     border: 2px solid;
     background-color: transparent;
     color: #ff5d00;
@@ -116,6 +121,7 @@ a {
 }
 
 .jumbotron h1 {
+    font-family: 'Montserrat', sans-serif;
     color: #f1fef5;
     font-size: 4rem;
     font-weight: bold;
@@ -123,6 +129,7 @@ a {
 }
 
 .jumbotron .lead {
+    font-family: 'Sarala', sans-serif;
     color: #f1fef5;
     font-size: 1.5rem;
     margin: 20px 0;
@@ -153,6 +160,7 @@ a {
 }
 
 .about p {
+    font-family: 'Sarala', sans-serif;
     font-size: 24px;
     font-weight: 600;
 }
