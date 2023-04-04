@@ -163,6 +163,20 @@ a {
     font-weight: 600;
 }
 
+/* ============================================== FAQ section*/
+.card-container {
+    width: 80%;
+}
+
+.card {
+    margin: 0 auto;
+    margin-bottom: 20px;
+    padding: 0;
+    height: 220px;
+    width: 100%;
+    border-radius: 20px;
+}
+
 /* ============================================== Contact section*/
 .contact-container {
     text-align: center;
