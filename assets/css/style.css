@@ -163,6 +163,28 @@ a {
     font-weight: 600;
 }
 
+/* ============================================== Contact section*/
+.contact-container {
+    text-align: center;
+}
+
+.contact {
+    font-family: 'Sarala', sans-serif;
+    font-size: 20px;
+}
+
+.contact h2 {
+    margin-top: 1rem;
+}
+
+.form-control {
+    margin-bottom: 1.2rem;
+}
+
+.btn-contact {
+    margin-bottom: 1.2rem;
+}
+
 /* ============================================== Static Image Gallery*/
 .static-gallery {
     text-align: center;
