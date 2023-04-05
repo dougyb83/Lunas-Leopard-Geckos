@@ -13,13 +13,14 @@ h2 {
     font-family: 'Averia Gruesa Libre', cursive;
     color: #ff5d00;
     font-weight: 400;
+    font-size: 4rem;
 }
 
 hr {
     margin-top: 20px;
     margin-bottom: 20px;
     border: 0;
-    width: 50%;
+    width: 400px;
     height: 2px;
     background-color: #DCC429;
 }
@@ -290,7 +291,11 @@ a {
 
 .faq-container {
     width: 60%;
-    margin-top: 30px;
+    text-align: center;
+}
+
+.faq-container h2 {
+    margin-top: 10px;
 }
 
 .card-container {
@@ -345,13 +350,13 @@ a {
     text-align: center;
 }
 
+.contact-container h2 {
+    margin-top: 10px;
+}
+
 .contact {
     font-family: 'Sarala', sans-serif;
     font-size: 20px;
-}
-
-.contact h2 {
-    margin-top: 10px;
 }
 
 .form-control {
