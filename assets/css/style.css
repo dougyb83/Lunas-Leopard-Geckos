@@ -277,13 +277,34 @@ a {
 .avail-gecko-card {    
     margin: 20px 20px 20px 20px;
     padding: 0;
-    height: 240px;
-    width: 240px;
-    border-radius: 20px;    
+    height: 320px;
+    width: 275px;
+    border-radius: 20px; 
 }
 
-.avail-gecko-card img {
-    border-radius: 20px; 
+.avail-gecko-card img { 
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    height: 60%;
+
+}
+
+.avail-gecko-card h4 {
+    color: #ff5d00;
+    font-family: 'Averia Gruesa Libre', cursive;
+    padding-top: 5px;
+}
+
+.avail-gecko-card h4 {
+    text-align: left;
+    padding-left: 10px;
+    margin: 0;
+}
+
+.avail-gecko-card p {
+    text-align: left;
+    padding-left: 10px;
+    margin: 0;
 }
 
 /* ============================================== FAQ section*/
@@ -310,10 +331,9 @@ a {
     margin-top: 10px;
 }
 
-.card-container {
+.faq-card-container {
     margin: 0 auto;
     padding: 0;
-    text-align: center;
 }
 
 .faq-card {    
@@ -321,7 +341,7 @@ a {
     padding: 30px;
     height: 240px;
     width: 240px;
-    border-radius: 20px;    
+    border-radius: 20px;  
 }
 
 .card i {
