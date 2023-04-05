@@ -274,6 +274,18 @@ a {
     margin-bottom: 30px;
 }
 
+.avail-gecko-card {    
+    margin: 20px 20px 20px 20px;
+    padding: 0;
+    height: 240px;
+    width: 240px;
+    border-radius: 20px;    
+}
+
+.avail-gecko-card img {
+    border-radius: 20px; 
+}
+
 /* ============================================== FAQ section*/
 .hero-faq {  
     height: 75vh;    
@@ -304,7 +316,7 @@ a {
     text-align: center;
 }
 
-.card {    
+.faq-card {    
     margin: 20px 20px 20px 20px;
     padding: 30px;
     height: 240px;
