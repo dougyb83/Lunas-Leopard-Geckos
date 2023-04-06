@@ -23,6 +23,7 @@ hr {
     width: 400px;
     height: 2px;
     background-color: #DCC429;
+    text-align: center;
 }
 
 a {
@@ -399,7 +400,7 @@ a {
     margin-bottom: 1.2rem;
 }
 
-
+/* ============================================== media queries*/
 @media screen and (max-width: 992px) {
     .image-container {
         width: 80%;        
@@ -500,6 +501,7 @@ a {
     hr {
         margin-top: 10px;
         margin-bottom: 10px;
+        width: 360px;
     }
 
     .copyright-info {
