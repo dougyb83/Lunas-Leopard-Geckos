@@ -14,6 +14,7 @@ h2 {
     color: #ff5d00;
     font-weight: 400;
     font-size: 4rem;
+    text-align: center;
 }
 
 hr {
@@ -155,6 +156,7 @@ a {
 .about h2 {
     padding-bottom: 5px;
     font-size: 38px;
+    text-align: left;
 }
 
 .about p {
@@ -278,34 +280,47 @@ a {
 .avail-gecko-card {    
     margin: 20px 20px 20px 20px;
     padding: 0;
-    height: 320px;
+    height: 275px;
     width: 275px;
-    border-radius: 20px; 
+    border-radius: 20px;
 }
 
 .avail-gecko-card img { 
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
-    height: 60%;
+    height: 65%;
 
 }
 
-.avail-gecko-card h4 {
+.avail-gecko-card h5 {
     color: #ff5d00;
     font-family: 'Averia Gruesa Libre', cursive;
     padding-top: 5px;
-}
-
-.avail-gecko-card h4 {
+    text-transform: capitalize;
     text-align: left;
     padding-left: 10px;
     margin: 0;
 }
 
-.avail-gecko-card p {
+.avail-gecko-card span {
     text-align: left;
     padding-left: 10px;
+    padding-right: 10px;
     margin: 0;
+}
+
+.dob-price {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.fa-venus {
+    color: #d8498c;
+}
+
+.fa-mars {
+    color: #2aaae6;
 }
 
 /* ============================================== FAQ section*/
@@ -345,18 +360,18 @@ a {
     border-radius: 20px;  
 }
 
-.card i {
+.faq-card i {
     font-size: 40px;
     color: #f1fef5;
 }
 
-.card h3 {
+.faq-card h3 {
     color: #ff5d00;
     font-family: 'Averia Gruesa Libre', cursive;
     margin-top: 20px;
 }
 
-.card p {
+.faq-card span {
     color: #e0ece4;
     font-family: 'Sarala', sans-serif;
     font-weight: bold;
@@ -413,6 +428,10 @@ a {
     .about-container {
         padding-top: 30px;
         padding-bottom: 30px;
+    }
+
+    .about h2 {
+        text-align: center;
     }
 
     .about p {
