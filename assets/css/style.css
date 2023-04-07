@@ -70,7 +70,7 @@ a {
 /*-- Credit to Matt Rudge, Code Institute for hero-image, Opaque Overlay and Jumbotron from Whiskey Drop project. repeated below--*/
 .hero-image {  
     height: 85vh;    
-    background: url(../images/gecko-1.jpg);  
+    background: url(../images/hero-1.jpg) no-repeat;  
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;   
@@ -209,7 +209,7 @@ a {
 /* ============================================== Footer*/
 .footer-image {
     height: 30vh;    
-    background: url(../images/footer-image.jpg) center center;
+    background: url(../images/footer-image.jpg) center center no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;   
@@ -265,7 +265,7 @@ a {
 /* ============================================== Available-geckos section*/
 .hero-avail-gecko {  
     height: 75vh;    
-    background: url(../images/gecko-1.jpg);  
+    background: url(../images/hero-4.jpg) center center no-repeat;  
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;   
@@ -309,7 +309,7 @@ a {
     margin: 0;
 }
 
-.dob-price {
+.sex-price {
     display: flex;
     align-items: flex-start;
     justify-content: space-between;
@@ -326,7 +326,7 @@ a {
 /* ============================================== FAQ section*/
 .hero-faq {  
     height: 75vh;    
-    background: url(../images/gecko-1.jpg);  
+    background: url(../images/hero-5.jpg) center center no-repeat;  
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;   
@@ -383,8 +383,8 @@ a {
 
 /* ============================================== Contact section*/
 .hero-contact {  
-    height: 75vh;    
-    background: url(../images/gecko-1.jpg);  
+    height: 75vh;
+    background: url(../images/hero-6.jpg) center center no-repeat;  
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;   
@@ -498,7 +498,7 @@ a {
 @media screen and (max-width: 640px) {
 
     .footer-image {
-        height: 20vh;
+        height: 25vh;
         margin-top: 30px;
     }
        
