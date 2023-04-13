@@ -26,7 +26,7 @@ a {
     text-decoration: none;
 }
 
-/* ============================================== Navbar */
+/* Navbar */
 .nav-container {
     position: fixed;
     z-index: 1;
@@ -59,7 +59,7 @@ a {
     text-align: center;
 }
 
-/* ============================================== Hero Image */
+/* Hero Image */
 
 /*-- Credit to Matt Rudge, Code Institute for hero-image, Opaque Overlay and Jumbotron from Whiskey Drop project. repeated below--*/
 .hero-image {  
@@ -107,7 +107,7 @@ a {
     color: #f1fef5;    
 }
 
-/* =================================================Jumbotron */
+/* Jumbotron */
 .jumbotron {
     background-color: transparent;
     margin-top: 450px;
@@ -128,7 +128,7 @@ a {
     margin: 20px 0;
 }
 
-/* ============================================== About section */
+/* About section */
 .about-container {
     padding-top: 30px;
     padding-bottom: 30px;
@@ -159,7 +159,7 @@ a {
     font-weight: 600;
 }
 
-/* ============================================== Static Image Gallery*/
+/* Static Image Gallery*/
 .static-gallery {
     text-align: center;
 }
@@ -200,7 +200,7 @@ a {
     width: 45%;
 }
 
-/* ============================================== Footer*/
+/* Footer*/
 .footer-image {
     height: 30vh;    
     background: url(../images/footer-image.jpg) center center no-repeat;
@@ -256,7 +256,7 @@ a {
     top: 100px;
 }
 
-/* ============================================== Available-geckos section*/
+/* Available-geckos section*/
 .hero-avail-gecko {  
     height: 75vh;    
     background: url(../images/hero-4.jpg) center center no-repeat;  
@@ -317,7 +317,7 @@ a {
     color: #2aaae6;
 }
 
-/* ============================================== FAQ section*/
+/* FAQ section*/
 .hero-faq {  
     height: 75vh;    
     background: url(../images/hero-5.jpg) center center no-repeat;  
@@ -375,7 +375,7 @@ a {
     font-size: 28px;
 }
 
-/* ============================================== Contact section*/
+/* Contact section*/
 .hero-contact {  
     height: 75vh;
     background: url(../images/hero-6.jpg) center center no-repeat;  
@@ -411,7 +411,7 @@ a {
     margin-bottom: 1.2rem;
 }
 
-/* ============================================== media queries*/
+/* media queries*/
 @media screen and (max-width: 992px) {
     .image-container {
         width: 80%;        
@@ -516,7 +516,7 @@ a {
     hr {
         margin-top: 10px;
         margin-bottom: 10px;
-        width: 330px;
+        width: 270px;
     }
 
     .copyright-info {
