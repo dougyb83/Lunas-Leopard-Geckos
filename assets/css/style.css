@@ -1,10 +1,4 @@
-/*-- Credit for solution to horizontal space on right side on small screens to Stackoverflow --*/
-html {
-    overflow-x: hidden;
-}
-
 body {
-    overflow-x: hidden;
     background-color: black;
     color: #f1fef5;
 }
