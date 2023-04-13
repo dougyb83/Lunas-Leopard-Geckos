@@ -164,21 +164,12 @@ Hint: the more, the merrier!
 
 ### Future Features
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-Do you have additional ideas that you'd like to include on your project in the future?
-Fantastic! List them here!
-It's always great to have plans for future improvements!
-Consider adding any helpful links or notes to help remind you in the future, if you revisit the project in a couple years.
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-- Title for future feature #1
-  - Any additional notes about this feature.
-- Title for future feature #2
-  - Any additional notes about this feature.
-- Title for future feature #3
-  - Any additional notes about this feature.
+- Leopard Gecko Care Sheet
+  - The FAQ page would be labeled a 'Quick Facts' page to make room for a new page that has much more comprehensive information regarding the care, housing and general husbandry of leopard geckos.
+- Waterwheel Carousel
+  - The static gallery on the homepage would be replaced with a rotating image reel.
+- Add to Cart
+  - Implement a 'shopping cart' and make it easier to make a purchase.
 
 ## Tools & Technologies Used
 
