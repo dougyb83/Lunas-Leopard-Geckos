@@ -63,37 +63,27 @@ I used [coolors.co](https://coolors.co/ff5d00-dcc429-e0ece4-f1fef5) to generate 
 
 [Font Awesome](https://fontawesome.com) icons were used throughout the site, such as the social media icons in the footer.
 
-## User Stories
-
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-In this section, list all of your user stories for the project.
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
 ### New Site Users
 
-- As a new site user, I would like to ____________, so that I can ____________.
-- As a new site user, I would like to ____________, so that I can ____________.
-- As a new site user, I would like to ____________, so that I can ____________.
-- As a new site user, I would like to ____________, so that I can ____________.
-- As a new site user, I would like to ____________, so that I can ____________.
+- I would like to quickly see the sites purpose.
+- I would like to see clear navigation, so that I can easily move back and forward between pages.
+- I would like any information to be clear and to the point, so that I can make an informed decision.
+- I would like to be able to contact the site owner, so that I can make a purchase.
+- I would like to find the sites social media pages.
+- I would like to view the site on any device.
 
 ### Returning Site Users
 
-- As a returning site user, I would like to ____________, so that I can ____________.
-- As a returning site user, I would like to ____________, so that I can ____________.
-- As a returning site user, I would like to ____________, so that I can ____________.
-- As a returning site user, I would like to ____________, so that I can ____________.
-- As a returning site user, I would like to ____________, so that I can ____________.
+- I would like to see up to date stock information.
+- I would like to look at new pictures.
+- I would like to refresh my knowledge by viewing fact references.
 
 ### Site Admin
 
-- As a site administrator, I should be able to ____________, so that I can ____________.
-- As a site administrator, I should be able to ____________, so that I can ____________.
-- As a site administrator, I should be able to ____________, so that I can ____________.
-- As a site administrator, I should be able to ____________, so that I can ____________.
-- As a site administrator, I should be able to ____________, so that I can ____________.
+- The code should have proper indentation so that it is clear for my self and other to read.
+- The code should be properly signposted to make it easy to navigate.
+- I should be able to manage the sites content, so that i can keep it up to date.
+- I should be able to respond to user enquiries.
 
 ## Wireframes
 
