@@ -53,12 +53,15 @@ I used [coolors.co](https://coolors.co/ff5d00-dcc429-e0ece4-f1fef5) to generate 
 
 ### Typography
 
-I used [fontjoy.com](https://fontjoy.com/) to generate font pairings as follows:
+[fontjoy.com](https://fontjoy.com/) was used to help generate font pairings as follows:
 
 - [Montserrat](https://fonts.google.com/specimen/Montserrat) was used for the primary headers.
 - [Averia Gruesa Libre](https://fonts.google.com/specimen/Averia+Gruesa+Libre) was used for sub headings.
 - [Sarala](https://fonts.google.com/specimen/Sarala) was used for all other secondary text.
-- [Font Awesome](https://fontawesome.com) icons were used throughout the site, such as the social media icons in the footer.
+
+[Montserrat](https://fonts.google.com/specimen/Montserrat) and [Sarala](https://fonts.google.com/specimen/Sarala) were selected as they are both readable and clear fonts which is ideal for main headings and large sections of text. [Averia Gruesa Libre](https://fonts.google.com/specimen/Averia+Gruesa+Libre) was choosen for its more stylistic properties to break the text up and give the page more character.
+
+[Font Awesome](https://fontawesome.com) icons were used throughout the site, such as the social media icons in the footer.
 
 ## User Stories
 
