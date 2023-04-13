@@ -6,6 +6,8 @@ On this site users will find a brief description of who the client is, reassurin
 
 Users can get in contact with the client via the contact page or by redirecting to their social pages.
 
+[View the live site here](https://dougyb83.github.io/Lunas-Leopard-Geckos)
+
 ⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
 
 In this section, you will include a few paragraphs providing an overview of your project.
@@ -191,10 +193,11 @@ For all testing, please refer to the [TESTING.md](TESTING.md) file.
 The site was deployed to GitHub Pages. The steps to deploy are as follows:
 
 - In the [GitHub repository](https://github.com/dougyb83/Lunas-Leopard-Geckos), navigate to the Settings tab
+- Under the heading "Code and automation", select "Pages".
 - From the source section drop-down menu, select the **Main** Branch, then click "Save".
 - The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-The live link can be found [here](https://dougyb83.github.io/Lunas-Leopard-Geckos)
+[View the live site here](https://dougyb83.github.io/Lunas-Leopard-Geckos)
 
 ### Local Deployment
 
