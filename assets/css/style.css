@@ -286,9 +286,10 @@ a {
 
 }
 
-.avail-gecko-card h5 {
+.avail-gecko-card h3 {
     color: #ff5d00;
     font-family: 'Averia Gruesa Libre', cursive;
+    font-size: 1.3rem;
     padding-top: 5px;
     text-transform: capitalize;
     text-align: left;
