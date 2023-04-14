@@ -411,6 +411,19 @@ a {
     margin-bottom: 1.2rem;
 }
 
+/* Confirmation section*/
+.confirmation-container {  
+    height: 75vh;
+    width: 80%; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.confirmation-content {
+    text-align: center;
+}
+
 /* media queries*/
 @media screen and (max-width: 992px) {
     .image-container {
