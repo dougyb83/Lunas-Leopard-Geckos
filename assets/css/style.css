@@ -324,6 +324,14 @@ a {
     font-size: 30px;
 
 }
+.ref {
+    display: flex; 
+    justify-content: center;
+    position: relative;
+    bottom: 15px;
+    font-size: .9rem;
+    color: #ff5d00;
+}
 
 /* FAQ section*/
 .hero-faq {  
