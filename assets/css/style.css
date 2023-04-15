@@ -274,6 +274,7 @@ a {
 .card-container {
     width: 60%;
     text-align: center;
+    padding: 0;
 }
 
 .card-container p {
