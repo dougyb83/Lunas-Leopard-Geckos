@@ -280,6 +280,15 @@ a {
     font-size: 1.2rem;
 }
 
+.card-container a {
+    text-decoration: none;
+}
+
+.card-container a:hover {
+    color: #ff5d00;
+    filter: brightness(75%);
+}
+
 .avail-gecko-card {    
     margin: 20px 20px 20px 20px;
     padding: 0;
