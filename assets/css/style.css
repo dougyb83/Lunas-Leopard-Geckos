@@ -317,6 +317,14 @@ a {
     color: #2aaae6;
 }
 
+.carousel-control-prev span, 
+.carousel-control-next span {
+    color: #ff5d00;
+    font-weight: bolder;
+    font-size: 30px;
+
+}
+
 /* FAQ section*/
 .hero-faq {  
     height: 75vh;    
