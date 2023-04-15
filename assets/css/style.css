@@ -64,7 +64,7 @@ a {
 /*-- Credit to Matt Rudge, Code Institute for hero-image, Opaque Overlay and Jumbotron from Whiskey Drop project. repeated below--*/
 .hero-image {  
     height: 85vh;    
-    background: url(../images/hero-1.jpg) no-repeat;  
+    background: url(../images/hero-images/hero-1.webp) no-repeat;  
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;   
@@ -203,7 +203,7 @@ a {
 /* Footer*/
 .footer-image {
     height: 30vh;    
-    background: url(../images/footer-image.jpg) center center no-repeat;
+    background: url(../images/footer-image.webp) center center no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;   
@@ -259,7 +259,7 @@ a {
 /* Available-geckos section*/
 .hero-avail-gecko {  
     height: 75vh;    
-    background: url(../images/hero-4.jpg) center center no-repeat;  
+    background: url(../images/hero-images/hero-2.webp) center center no-repeat;  
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;   
@@ -360,7 +360,7 @@ a {
 /* FAQ section*/
 .hero-faq {  
     height: 75vh;    
-    background: url(../images/hero-5.jpg) center center no-repeat;  
+    background: url(../images/hero-images/hero-3.webp) center center no-repeat;  
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;   
@@ -418,7 +418,7 @@ a {
 /* Contact section*/
 .hero-contact {  
     height: 75vh;
-    background: url(../images/hero-6.jpg) center center no-repeat;  
+    background: url(../images/hero-images/hero-4.webp) center center no-repeat;  
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;   
