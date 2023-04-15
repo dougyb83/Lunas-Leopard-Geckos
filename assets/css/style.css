@@ -317,6 +317,11 @@ a {
     color: #2aaae6;
 }
 
+.carousel-control-next,
+.carousel-control-prev {
+    z-index: 0;
+}
+
 .carousel-control-prev span, 
 .carousel-control-next span {
     color: #ff5d00;
