@@ -57,14 +57,26 @@
                         </p> 
                         <div>
                             <form action="confirmation.html">
-                               <input type="text" name="name" id="fullname" class="form-control" placeholder="Full Name" required />
-                               <input type="email" name="email" id="emailaddress" class="form-control" placeholder="Email" required />
-                               <textarea rows="5" name="message" id="message" class="form-control" placeholder="Type Message Here" required ></textarea>
-                               <div class="text-center">
+                                <input type="text" name="name" id="fullname" class="form-control" placeholder="Full Name" required />
+                                <input type="email" name="email" id="emailaddress" class="form-control" placeholder="Email" required />
+                                <select name="gecko-ref" id="gecko-ref" class="form-control" placeholder="Gecko reference (Optional)">
+                                    <option value="" disabled selected>Gecko reference (Optional)</option> 
+                                    <option value="SNGW">SNGW</option>                            
+                                    <option value="MSPT">MSPT</option>                            
+                                    <option value="MSTM">MSTM</option>                            
+                                    <option value="TNGE">TNGE</option>                            
+                                    <option value="GRNT">GRNT</option>                            
+                                    <option value="BLDL">BLDL</option>
+                                    <option value="BNDX">BNDX</option>
+                                    <option value="SSPW">SSPW</option>
+                                    <option value="TNGX">TNGX</option>
+                                </select>
+                                <textarea rows="5" name="message" id="message" class="form-control" placeholder="Type Message Here" required ></textarea>
+                                <div class="text-center">
                                   <div class="col">
                                      <button type="submit" class="btn btn-outline btn-contact">Send Message</button>
                                   </div>
-                               </div>
+                                </div>
                             </form>
                         </div>
                         <hr>             
