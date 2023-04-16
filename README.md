@@ -108,12 +108,15 @@ the user navigates to an invalid address as well as a confirmation page which lo
   - The navbar is fully responsive and on smaller screens will reduce to a clickable button with a dropdown menu. This is so the text does not become cluttered and to create more screen space.
 
 Navbar as seen on desktop
+
 ![screenshot](documentation/navbar-desktop.png)
 
 Navbar as seen on mobile devices
+
 ![screenshot](documentation/navbar-mobile.png)
 
 Navbar dropdown menu as seen on mobile devices
+
 ![screenshot](documentation/navbar-dropdown.png)
 
 - **Footer**
@@ -121,6 +124,7 @@ Navbar dropdown menu as seen on mobile devices
   - Repeated at the bottom of each page is the footer. It has a picture of a leopard gecko than spans the full width of the screen and when fully in view takes up 30% fo the viewport height. In the center are three social media icons which, on mouse hover will change colour to yellow and when clicked, will open up a new tab so as not to take the user away from our page. To the left is the sites logo which links to the homepage and on the right is some copyright information.
 
 Here the footer can be seen with the highlighted Facebook icon.
+
 ![screenshot](documentation/footer-highlight.png)
 
 - **Hero Image**
@@ -140,15 +144,19 @@ Here we can see the hero image as displayed on the contact page where the user i
   - A static gallery to show some of the sites available geckos with a button that also turns solid orange when hovered over. This links to the 'available geckos' page. The static galler reduces down to two images when viewed on mobile devices.
 
 Jumbotron.
+
 ![screenshot](documentation/jumbotron.png)
 
 About us.
+
 ![screenshot](documentation/about-us.png)
 
 Static gallery viewed on desktop.
+
 ![screenshot](documentation/static-gallery.png)
 
 Static gallery when viewed on a mobile device.
+
 ![screenshot](documentation/static-gallery-mobile.png)
 
 - **Available Geckos page**
@@ -156,9 +164,11 @@ Static gallery when viewed on a mobile device.
   - Here we have one card displayed for each available gecko. Each card has a image carousel so the user can see multiple images of the same gecko. The carousel has left and right chevrons for navigation. The cards are fully responsive.
 
 Available gecko cards viewed on desktop.
+
 ![screenshot](documentation/avail-cards.png)
 
 Available gecko cards when viewed on a mobile device.
+
 ![screenshot](documentation/avail-cards-mobile.png)
 
 - **FAQ page**
@@ -166,9 +176,11 @@ Available gecko cards when viewed on a mobile device.
   - This page displays cards with information about leopard geckos on them so that users can make informed descisions when deciding whether or not to buy a gecko. 
 
 FAQ cards viewed on desktop.
+
 ![screenshot](documentation/faq-cards.png)
 
 FAQ cards when viewed on a mobile device.
+
 ![screenshot](documentation/faq-cards-mobile.png)
 
 - **Contact page**
@@ -176,6 +188,7 @@ FAQ cards when viewed on a mobile device.
   - Here the user can contact the site owner with the option to refernce a particular gecko if making an enquiry. The 'Send message' button turns solid orange when hovered over. When clicked, the confirmation page will load.
 
 Contact form.
+
 ![screenshot](documentation/contact-form.png)
 
 - **Confirmation page**
@@ -184,6 +197,7 @@ Contact form.
   - The page will refresh to the homepage after 10 seconds.
 
 Confirmation page.
+
 ![screenshot](documentation/confirmation.png)
 
 - **Error 404 page**
@@ -192,6 +206,7 @@ Confirmation page.
   - The page will refresh to the homepage after 10 seconds.
 
 Confirmation page.
+
 ![screenshot](documentation/error-404.png)
 
 ### Future Features
