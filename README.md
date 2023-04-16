@@ -56,7 +56,7 @@ I used [coolors.co](https://coolors.co/ff5d00-dcc429-e0ece4-f1fef5) to generate 
 
 ### Site Admin
 
-- The code should have proper indentation so that it is clear for my self and other to read.
+- The code should have proper indentation so that it is clear for myself and others to read.
 - The code should be properly signposted to make it easy to navigate.
 - I should be able to manage the sites content, so that i can keep it up to date.
 - I should be able to respond to user enquiries.
@@ -95,28 +95,26 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
 
 ## Features
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-In this section, you should go over the different parts of your project,
-and describe each in a sentence or so.
-
-You will need to explain what value each of the features provides for the user,
-focusing on who this website is for, what it is that they want to achieve,
-and how your project is the best way to help them achieve these things.
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-IMPORTANT: Remember to always include a screenshot of each individual feature!
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+The website has four main pages, all of which are accessible from the navigation bar which is fixed at the top of each page. There are an additional two pages, one is a 404 error page which will be loaded if 
+the user navigates to an invalid address as well as a confirmation page which loads after the user submits the contact form.
 
 ### Existing Features
 
-- **Title for feature #1**
+- **Navbar**
 
-  - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+  - The navbar is fixed to the top of each page allowing for the user to easily navigate to and from each page within the site. The site's logo is displayed on the left which also links to the homepage. On the right of the navbar is a link to each of the main pages.
+  - The link text of the page the user is currently visiting is displayed in bold text to make it clear which page they are on.
+  - When the user hover's the mouse over the 'inactive' links the text will become brighter to indicate they are clickable.
+  - The navbar is fully responsive and on smaller screens will reduce to a clickable button with a dropdown menu. This is so the text does not become cluttered and to create more screen space.
 
-![screenshot](documentation/feature01.png)
+Navbar as seen on desktop
+![screenshot](documentation/navbar-desktop.png)
+
+Navbar as seen on mobile devices
+![screenshot](documentation/navbar-mobile.png)
+
+Navbar dropdown menu as seen on mobile devices
+![screenshot](documentation/navbar-dropdown.png)
 
 - **Title for feature #2**
 
