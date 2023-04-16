@@ -116,25 +116,83 @@ Navbar as seen on mobile devices
 Navbar dropdown menu as seen on mobile devices
 ![screenshot](documentation/navbar-dropdown.png)
 
-- **Title for feature #2**
+- **Footer**
 
-  - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+  - Repeated at the bottom of each page is the footer. It has a picture of a leopard gecko than spans the full width of the screen and when fully in view takes up 30% fo the viewport height. In the center are three social media icons which, on mouse hover will change colour to yellow and when clicked, will open up a new tab so as not to take the user away from our page. To the left is the sites logo which links to the homepage and on the right is some copyright information.
 
-![screenshot](documentation/feature02.png)
+Here the footer can be seen with the highlighted Facebook icon.
+![screenshot](documentation/footer-highlight.png)
 
-- **Title for feature #3**
+- **Hero Image**
 
-  - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+  - Each of the main pages has it's own hero image of a leopard gecko to draw the user in. The hero images span the full width of the page but do not cover the full height. This is so the user can see that there is more to be seen further down the page.
 
-![screenshot](documentation/feature03.png)
+Here we can see the hero image as displayed on the contact page where the user is drawn further down the page with the visibilty of more information.
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
+![screenshot](documentation/hero-image.png)
 
-Repeat as necessary for as many features as your site contains.
+- **Homepage**
 
-Hint: the more, the merrier!
+  - A jumbotron is displayed over the hero image with the name of the page displayed in large text followed by a one line description of what we do and a button style link. The button when hovered overturns solid orange to indicate it is clickable, this links to the 'available geckos' page.
 
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+  - An about section with a brief description of who we are and what we offer
+
+  - A static gallery to show some of the sites available geckos with a button that also turns solid orange when hovered over. This links to the 'available geckos' page. The static galler reduces down to two images when viewed on mobile devices.
+
+Jumbotron.
+![screenshot](documentation/jumbotron.png)
+
+About us.
+![screenshot](documentation/about-us.png)
+
+Static gallery viewed on desktop.
+![screenshot](documentation/static-gallery.png)
+
+Static gallery when viewed on a mobile device.
+![screenshot](documentation/static-gallery-mobile.png)
+
+- **Available Geckos page**
+
+  - Here we have one card displayed for each available gecko. Each card has a image carousel so the user can see multiple images of the same gecko. The carousel has left and right chevrons for navigation. The cards are fully responsive.
+
+Available gecko cards viewed on desktop.
+![screenshot](documentation/avail-cards.png)
+
+Available gecko cards when viewed on a mobile device.
+![screenshot](documentation/avail-cards-mobile.png)
+
+- **FAQ page**
+
+  - This page displays cards with information about leopard geckos on them so that users can make informed descisions when deciding whether or not to buy a gecko. 
+
+FAQ cards viewed on desktop.
+![screenshot](documentation/faq-cards.png)
+
+FAQ cards when viewed on a mobile device.
+![screenshot](documentation/faq-cards-mobile.png)
+
+- **Contact page**
+
+  - Here the user can contact the site owner with the option to refernce a particular gecko if making an enquiry. The 'Send message' button turns solid orange when hovered over. When clicked, the confirmation page will load.
+
+Contact form.
+![screenshot](documentation/contact-form.png)
+
+- **Confirmation page**
+
+  - This page displays when a message is submitted on the contact page.
+  - The page will refresh to the homepage after 10 seconds.
+
+Confirmation page.
+![screenshot](documentation/confirmation.png)
+
+- **Error 404 page**
+
+  - This page displays when the user try's to navigate to a page that doesn't exist.
+  - The page will refresh to the homepage after 10 seconds.
+
+Confirmation page.
+![screenshot](documentation/error-404.png)
 
 ### Future Features
 
