@@ -98,7 +98,7 @@ a {
 
 .btn-outline {
     border-radius: 100px;
-    font-weight: 600 !important;
+    font-weight: 600;
     border-color: #ff5d00;    
 }
 
