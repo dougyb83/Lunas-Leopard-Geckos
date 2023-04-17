@@ -234,6 +234,11 @@ a {
     height: 200px;
 }
 
+/* Credit to Tim Nelson, Code Institute for tips on how to fix footer issue at 320px */
+.list-inline-item:not(:last-child) {
+    margin-right: 0.4rem;
+}
+
 .socials {
     z-index: 1;
     position: absolute;
