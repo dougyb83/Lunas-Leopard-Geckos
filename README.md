@@ -305,56 +305,34 @@ You can fork this repository by using the following steps:
 | ------------------------------------------------------------------------ | ------------------ | ------------------------------------------------ |
 | [Markdown Builder](https://traveltimn.github.io/markdown-builder)           | README and TESTING | tool to help generate the Markdown files         |
 | [Chris Beams](https://chris.beams.io/posts/git-commit)                      | version control    | "How to Write a Git Commit Message"              |
-| [W3Schools](https://www.w3schools.com/howto/howto_js_topnav_responsive.asp) | entire site        | responsive HTML/CSS/JS navbar                    |
-| [W3Schools](https://www.w3schools.com/howto/howto_css_modals.asp)           | contact page       | interactive pop-up (modal)                       |
-| [W3Schools](https://www.w3schools.com/css/css3_variables.asp)               | entire site        | how to use CSS :root variables                   |
+| [W3Schools](https://www.w3schools.com/howto/howto_js_topnav_responsive.asp) | entire site        | responsive HTML/CSS                    |
+| [W3Schools](https://www.w3schools.com/howto/howto_css_outline_buttons.asp) | home and contact pages | button with an outline
 | [Flexbox Froggy](https://flexboxfroggy.com/)                                | entire site        | modern responsive layouts                        |
-| [Grid Garden](https://cssgridgarden.com)                                    | entire site        | modern responsive layouts                        |
-| [StackOverflow](https://stackoverflow.com/a/2450976)                        | quiz page          | Fisher-Yates/Knuth shuffle in JS                 |
-| [YouTube](https://www.youtube.com/watch?v=YL1F4dCUlLc)                      | leaderboard        | using `localStorage()` in JS for high scores   |
-| [YouTube](https://www.youtube.com/watch?v=u51Zjlnui4Y)                      | PP3 terminal       | tutorial for adding color to the Python terminal |
-| [strftime](https://strftime.org)                                            | CRUD functionality | helpful tool to format date/time from string     |
-| [WhiteNoise](http://whitenoise.evans.io)                                    | entire site        | hosting static files on Heroku temporarily       |
-
+| [Tim Nelson](https://github.com/TravelTimN) | available geckos and faq pages | responsive card layout |
+| [Tim Nelson](https://github.com/TravelTimN) | confirmation and 404 pages | meta tag to refresh to homepage |
+| [Tim Nelson](https://github.com/TravelTimN) | contact page | how to redirect to confirmation page |
+| [StackOverflow](https://stackoverflow.com/a/50823025) | available geckos page | how to change chevron colour on carousel
+| [Morph Market](https://www.morphmarket.com/eu/c/all?seller=klggeckos&state=for_sale) | available geckos page | inspiration for card layout |
+| [Bootstrap](https://getbootstrap.com) | entire site | responsive grid layout, carousel and buttons |
+| [Matt Rudge](https://github.com/lechien73) | entire site | navbar & toggler,  hero image, opaque overlay |
+| [Font Awesome](https://fontawesome.com) | entire site | social icons and faq cards |
 ### Media
-
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-Use this space to provide attribution links to any images, videos, or audio files borrowed from online.
-A few examples have been provided below to give you some ideas.
-
-If you're the owner (or a close acquaintance) of all media files, then make sure to specify this.
-Let the assessors know that you have explicit rights to use the media files within your project.
-
-Ideally, you should provide an actual link to every media file used, not just a generic link to the main site!
-The list below is by no means exhaustive. Within the Code Institute Slack community, you can find more "free media" links
-by sending yourself the following command: `!freemedia`.
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
 | Source                                                        | Location     | Type  | Notes                                        |
 | ------------------------------------------------------------- | ------------ | ----- | -------------------------------------------- |
-| [Pexels](https://www.pexels.com)                                 | entire site  | image | favicon on all pages                         |
-| [Lorem Picsum](https://picsum.photos)                            | home page    | image | hero image background                        |
-| [Unsplash](https://unsplash.com)                                 | product page | image | sample of fake products                      |
-| [Pixabay](https://pixabay.com)                                   | gallery page | image | group of photos for gallery                  |
-| [Wallhere](https://wallhere.com)                                 | footer       | image | background wallpaper image in the footer     |
-| [This Person Does Not Exist](https://thispersondoesnotexist.com) | testimonials | image | headshots of fake testimonial images         |
-| [Audio Micro](https://www.audiomicro.com/free-sound-effects)     | game page    | audio | free audio files to generate the game sounds |
-| [Videvo](https://www.videvo.net/)                                | home page    | video | background video on the hero section         |
+| [pxfuel](https://www.pxfuel.com/en/desktop-wallpaper-pubba/download/1920x1080)                            | home page    | image | hero image                        |
+| [swell reptiles](https://www.reptiles.swelluk.com/help-guides/care-sheet-leopard-geckos)                            | entire site    | image | footer image                        |
+| [wallpaperaccess](https://wallpaperaccess.com/gecko)     | available geckos, faq & contact page    | image | hero images                      |
+| [Unsplash](https://unsplash.com)                                 | home page | image | static gallery images |
 | [TinyPNG](https://tinypng.com)                                   | entire site  | image | tool for image compression                   |
+| [redketchup](https://redketchup.io/favicon-generator) | Entire site | image | title bar icon |
+| [pixelied](https://pixelied.com/convert/jpg-converter/jpg-to-webp) | entire site | image | tool for image conversion to WebP |
+| [bandcrowd](https://www.brandcrowd.com)                                 | entire site | image | page logo |
+| [Morph Market](https://www.morphmarket.com/eu/c/all?seller=klggeckos&state=for_sale) | available geckos page | image | images for cards |
+
 
 ### Acknowledgements
-
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-Use this space to provide attribution to any supports that helped, encouraged, or supported you throughout the development stages of this project.
-A few examples have been provided below to give you some ideas.
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
 - I would like to thank my Code Institute mentor, [Tim Nelson](https://github.com/TravelTimN) for their support throughout the development of this project.
 - I would like to thank the [Code Institute](https://codeinstitute.net) tutor team for their assistance with troubleshooting and debugging some project issues.
 - I would like to thank the [Code Institute Slack community](https://code-institute-room.slack.com) for the moral support; it kept me going during periods of self doubt and imposter syndrome.
-- I would like to thank my partner (John/Jane), for believing in me, and allowing me to make this transition into software development.
-- I would like to thank my employer, for supporting me in my career development change towards becoming a software developer.
