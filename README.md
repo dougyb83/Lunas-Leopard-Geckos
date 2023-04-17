@@ -68,30 +68,51 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
 
 ### Mobile Wireframes
 
-| Size                  | Screenshot                                                        |
-| --------------------- | ----------------------------------------------------------------- |
-| Home Page             | ![screenshot](documentation/wireframes/mobile-home.png)             |
-| Available Geckos Page | ![screenshot](documentation/wireframes/mobile-available-geckos.png) |
-| FAQ Page              | ![screenshot](documentation/wireframes/mobile-faq.png)              |
-| Contact Page          | ![screenshot](documentation/wireframes/mobile-contact-us.png)       |
+<details>
+<summary>Click here to see the Mobile Wireframes</summary>
+
+- Home Page
+  - ![screenshot](documentation/wireframes/mobile-home.png)
+- Available Geckos Page
+  - ![screenshot](documentation/wireframes/mobile-available-geckos.png)
+- FAQ Page
+  - ![screenshot](documentation/wireframes/mobile-faq.png)
+- Contact Page
+  - ![screenshot](documentation/wireframes/mobile-contact-us.png)
+
+</details>
 
 ### Tablet Wireframes
 
-| Size                  | Screenshot                                                        |
-| --------------------- | ----------------------------------------------------------------- |
-| Home Page             | ![screenshot](documentation/wireframes/tablet-home.png)             |
-| Available Geckos Page | ![screenshot](documentation/wireframes/tablet-available-geckos.png) |
-| FAQ Page              | ![screenshot](documentation/wireframes/tablet-faq.png)              |
-| Contact Page          | ![screenshot](documentation/wireframes/tablet-contact-us.png)       |
+<details>
+<summary>Click here to see the Tablet Wireframes</summary>
+
+- Home Page
+  - ![screenshot](documentation/wireframes/tablet-home.png)
+- Available Geckos Page
+  - ![screenshot](documentation/wireframes/tablet-available-geckos.png)
+- FAQ Page
+  - ![screenshot](documentation/wireframes/tablet-faq.png)
+- Contact Page
+  - ![screenshot](documentation/wireframes/tablet-contact-us.png)
+
+</details>
 
 ### Desktop Wireframes
 
-| Size                  | Screenshot                                                         |
-| --------------------- | ------------------------------------------------------------------ |
-| Home Page             | ![screenshot](documentation/wireframes/desktop-home.png)             |
-| Available Geckos Page | ![screenshot](documentation/wireframes/desktop-available-geckos.png) |
-| FAQ Page              | ![screenshot](documentation/wireframes/desktop-faq.png)              |
-| Contact Page          | ![screenshot](documentation/wireframes/desktop-contact-us.png)       |
+<details>
+<summary>Click here to see the Desktop Wireframes</summary>
+
+- Home Page
+  - ![screenshot](documentation/wireframes/desktop-home.png)
+- Available Geckos Page
+  - ![screenshot](documentation/wireframes/desktop-available-geckos.png)
+- FAQ Page
+  - ![screenshot](documentation/wireframes/desktop-faq.png)
+- Contact Page
+  - ![screenshot](documentation/wireframes/desktop-contact-us.png)
+
+</details>
 
 ## Features
 
