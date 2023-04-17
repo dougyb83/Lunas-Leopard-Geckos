@@ -20,11 +20,10 @@
 </head>
 <body>
     <!-- Start of Navbar -->
-    <div class="container-fluid nav-container">
+    <header class="container-fluid nav-container">
         <!-- Credit to Matt Rudge, Code Institute for Dark Navbar from Whiskey Drop project-->
         <nav class="navbar navbar-dark bg-dark navbar-expand-sm">
-            <a href="index.html"><img width="50" src="assets/images/logo.webp" alt="circular logo of gecko hand"></a>
-
+            <a href="index.html"><img width="50" src="assets/images/logo.webp" alt="circular logo of gecko hand"></a>            
             <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" 
             aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <!-- This span is the icon for the hamburger menu -->
@@ -38,27 +37,26 @@
                 </ul>
             </div>
         </nav>
-    </div>
+    </header>
     <!-- Start of Hero image and title -->
-    <div class="container-fluid hero-image">
-        <!-- Credit to Matt Rudge, Code Institute for Opaque Overlay and Jumbotron from Whiskey Drop project-->
-        <div class="opaque-overlay"></div> 
-        <div class="row">
-            <div class="col-12">
-                <section class="callout jumbotron text-center">
-                    <h1>Luna's Leopard Geckos</h1>
-                    <p class="lead">We breed and sell quality leopard geckos.</p>
-                    <a class="btn btn-outline" href="available-geckos.html" aria-label="View our available leopard geckos">Find out more!</a>                    
-                </section>
-            </div>
-        </div>       
-    </div>
-    
-    <!-- Start of About section -->
-    <div>
-        <div class="container">
+    <main>
+        <section class="container-fluid hero-image">
+            <!-- Credit to Matt Rudge, Code Institute for Opaque Overlay and Jumbotron from Whiskey Drop project-->
+            <div class="opaque-overlay"></div> 
+            <div class="row">
+                <div class="col-12">
+                    <div class="callout jumbotron text-center">
+                        <h1>Luna's Leopard Geckos</h1>
+                        <p class="lead">We breed and sell quality leopard geckos.</p>
+                        <a class="btn btn-outline" href="available-geckos.html" aria-label="View our available leopard geckos">Find out more!</a>                    
+                    </div>
+                </div>
+            </div>       
+        </section>        
+        <!-- Start of About section -->
+        <section class="container">
             <hr>
-            <section class="about-container">
+            <div class="about-container">
                 <div class="row justify-content-center">
                     <div class="image-container">
                         <img class="about-image" src="assets/images/gecko-about.webp" alt="A close-up of a leopard gecko on a black background, licking its nose and looking at its reflection, with its large eyes and textured skin visible in detail">
@@ -72,33 +70,32 @@
                         </p>                        
                     </div>                    
                 </div>
-            </section>
-            <hr>    
-        </div>
-    </div>
-       
-    <!-- Start of Static gallery -->
-    <div class="container-fluid static-gallery">
-        <div class="row">
-            <div class="col-12">
-                <h2>Available Geckos</h2>
-                <div class="d-none d-sm-block">
-                    <img id="stat-gal-one" src="assets/images/gallery/gallery-1.webp" alt="A leopard gecko with a white head and black spots, and a yellow body with a black stripe running down its spine, resting on a rock">
-                    <img id="stat-gal-two" src="assets/images/gallery/gallery-2.webp" alt="A leopard gecko with a distinctive yellow and white pattern on its skin, resting on a log">
-                    <img id="stat-gal-three" src="assets/images/gallery/gallery-3.webp" alt="A close-up of a leopard gecko's face, showing its large eyes">
-                    <img id="stat-gal-four" src="assets/images/gallery/gallery-4.webp" alt="A tangerine-colored leopard gecko licking its eye with its long tongue">
-                    <img id="stat-gal-five" src="assets/images/gallery/gallery-5.webp" alt="A leopard gecko with yellow and black spotted skin pattern, basking on a rock in its enclosure"> 
-                </div>
-                <div class="row d-block d-sm-none">
-                    <div class="col-12 small-gal">
-                        <img src="assets/images/gallery/gallery-3.webp" alt="A close-up of a leopard gecko's face, showing its large eyes">
-                        <img src="assets/images/gallery/gallery-5.webp" alt="A tangerine-colored leopard gecko licking its eye with its long tongue">
-                    </div>
-                </div>  
-                <p><a class="btn btn-outline" href="available-geckos.html" aria-label="View our available leopard geckos">Click here to see more!</a></p>
             </div>
-        </div>
-    </div>
+            <hr>    
+        </section>        
+        <!-- Start of Static gallery -->
+        <section class="container-fluid static-gallery">
+            <div class="row">
+                <div class="col-12">
+                    <h2>Available Geckos</h2>
+                    <div class="d-none d-sm-block">
+                        <img id="stat-gal-one" src="assets/images/gallery/gallery-1.webp" alt="A leopard gecko with a white head and black spots, and a yellow body with a black stripe running down its spine, resting on a rock">
+                        <img id="stat-gal-two" src="assets/images/gallery/gallery-2.webp" alt="A leopard gecko with a distinctive yellow and white pattern on its skin, resting on a log">
+                        <img id="stat-gal-three" src="assets/images/gallery/gallery-3.webp" alt="A close-up of a leopard gecko's face, showing its large eyes">
+                        <img id="stat-gal-four" src="assets/images/gallery/gallery-4.webp" alt="A tangerine-colored leopard gecko licking its eye with its long tongue">
+                        <img id="stat-gal-five" src="assets/images/gallery/gallery-5.webp" alt="A leopard gecko with yellow and black spotted skin pattern, basking on a rock in its enclosure"> 
+                    </div>
+                    <div class="row d-block d-sm-none">
+                        <div class="col-12 small-gal">
+                            <img src="assets/images/gallery/gallery-3.webp" alt="A close-up of a leopard gecko's face, showing its large eyes">
+                            <img src="assets/images/gallery/gallery-5.webp" alt="A tangerine-colored leopard gecko licking its eye with its long tongue">
+                        </div>
+                    </div>  
+                    <p><a class="btn btn-outline" href="available-geckos.html" aria-label="View our available leopard geckos">Click here to see more!</a></p>
+                </div>
+            </div>
+        </section>
+    </main>
     <!-- Start of Footer -->
     <footer>
         <div class="container-fluid footer-image">
