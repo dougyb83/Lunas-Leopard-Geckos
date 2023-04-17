@@ -316,6 +316,8 @@ You can fork this repository by using the following steps:
 | [Bootstrap](https://getbootstrap.com) | entire site | responsive grid layout, carousel and buttons |
 | [Matt Rudge](https://github.com/lechien73) | entire site | navbar & toggler,  hero image, opaque overlay |
 | [Font Awesome](https://fontawesome.com) | entire site | social icons and faq cards |
+| [Google fonts](https://fonts.google.com/) | entire site | all text |
+
 ### Media
 
 | Source                                                        | Location     | Type  | Notes                                        |
