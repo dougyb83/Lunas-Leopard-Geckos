@@ -31,13 +31,13 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 
 I've tested my deployed project on multiple browsers to check for compatibility issues.
 
-| Browser           | Screenshot                                     | Notes                                |
-| ----------------- | ---------------------------------------------- | ------------------------------------ |
-| Chrome            | ![screenshot](documentation/testing/browser-chrome.png)  | Works as expected                    |
-| Firefox           | ![screenshot](documentation/testing/browser-firefox.png) | Works as expected                    |
-| Edge              | ![screenshot](documentation/testing/browser-edge.png)    | Works as expected                    |
-| Brave             | ![screenshot](documentation/testing/browser-brave.png)   | Works as expected                    |
-| Opera             | ![screenshot](documentation/testing/browser-opera.png)   | Works as expected                    |
+| Browser           | Screenshot                                     | Screenshot                                     | Screenshot                                     | Screenshot                                     | Notes                                |
+| ----------------- | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- | ------------------------------------ |
+| Chrome            | ![screenshot](documentation/testing/browser-chrome.png)  | ![screenshot](documentation/testing/browser-chrome-avail.png)  | ![screenshot](documentation/testing/browser-chrome-faq.png)  | ![screenshot](documentation/testing/browser-chrome-contact.png)  | Works as expected                    |
+| Firefox           | ![screenshot](documentation/testing/browser-firefox.png)  | ![screenshot](documentation/testing/browser-firefox-avail.png)  | ![screenshot](documentation/testing/browser-firefox-faq.png)  | ![screenshot](documentation/testing/browser-firefox-contact.png)  | Works as expected                    |
+| Edge              | ![screenshot](documentation/testing/browser-edge.png)  | ![screenshot](documentation/testing/browser-edge-avail.png)  | ![screenshot](documentation/testing/browser-edge-faq.png)  | ![screenshot](documentation/testing/browser-edge-contact.png)  | Works as expected                    |
+| Brave             | ![screenshot](documentation/testing/browser-brave.png)  | ![screenshot](documentation/testing/browser-brave-avail.png)  | ![screenshot](documentation/testing/browser-brave-faq.png)  | ![screenshot](documentation/testing/browser-brave-contact.png)  | Works as expected                    |
+| Opera             | ![screenshot](documentation/testing/browser-opera.png)  | ![screenshot](documentation/testing/browser-opera-avail.png)  | ![screenshot](documentation/testing/browser-opera-faq.png)  | ![screenshot](documentation/testing/browser-opera-contact.png)  | Works as expected                    |
 
 ## Responsiveness
 
