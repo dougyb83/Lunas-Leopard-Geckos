@@ -65,16 +65,16 @@ Sample responsiveness testing documentation:
 
 I've tested my deployed project on multiple devices to check for responsiveness issues.
 
-| Device             | Screenshot                                        | Notes                               |
-| ------------------ | ------------------------------------------------- | ----------------------------------- |
-| Mobile (DevTools)  | ![screenshot](documentation/responsive-mobile.png)  | Works as expected                   |
-| Tablet (DevTools)  | ![screenshot](documentation/responsive-tablet.png)  | Works as expected                   |
-| Desktop            | ![screenshot](documentation/responsive-desktop.png) | Works as expected                   |
-| XL Monitor         | ![screenshot](documentation/responsive-xl.png)      | Scaling starts to have minor issues |
-| 4K Monitor         | ![screenshot](documentation/responsive-4k.png)      | Noticeable scaling issues           |
-| Google Pixel 7 Pro | ![screenshot](documentation/responsive-pixel.png)   | Works as expected                   |
-| iPhone 14          | ![screenshot](documentation/responsive-iphone.png)  | Works as expected                   |
-| x                  | x                                                 | repeat for any other tested sizes   |
+| Device             | Screenshot                                        | Screenshot                                        | Screenshot                                        | Screenshot                                        | Notes                               |
+| ------------------ | ------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- | ----------------------------------- |
+| Mobile (DevTools)  | ![screenshot](documentation/testing/responsive-mobile-dev-home.png)  | ![screenshot](documentation/testing/responsive-mobile-dev-avail.png)  |![screenshot](documentation/testing/responsive-mobile-dev-faq.png)  |![screenshot](documentation/testing/responsive-mobile-dev-contact.png)  |Works as expected                   |
+| Tablet (DevTools)  | ![screenshot](documentation/testing/responsive-tablet-dev-home.png)  | ![screenshot](documentation/testing/responsive-mobile-dev-avail.png)  |![screenshot](documentation/testing/responsive-mobile-dev-faq.png)  |![screenshot](documentation/testing/responsive-mobile-dev-contact.png)  |Works as expected                   |
+| Desktop            | ![screenshot](documentation/testing/responsive-desktop.png) | ![screenshot](documentation/testing/responsive-mobile.png)  |![screenshot](documentation/testing/responsive-mobile.png)  |![screenshot](documentation/testing/responsive-mobile.png)  |Works as expected                   |
+| XL Monitor         | ![screenshot](documentation/testing/responsive-xl.png)      | ![screenshot](documentation/testing/responsive-mobile.png)  |![screenshot](documentation/testing/responsive-mobile.png)  |![screenshot](documentation/testing/responsive-mobile.png)  |Scaling starts to have minor issues |
+| 4K Monitor         | ![screenshot](documentation/testing/responsive-4k.png)      | ![screenshot](documentation/testing/responsive-mobile.png)  |![screenshot](documentation/testing/responsive-mobile.png)  |![screenshot](documentation/testing/responsive-mobile.png)  |Noticeable scaling issues           |
+| Google Pixel 7 Pro | ![screenshot](documentation/testing/responsive-pixel.png)   | ![screenshot](documentation/testing/responsive-mobile.png)  |![screenshot](documentation/testing/responsive-mobile.png)  |![screenshot](documentation/testing/responsive-mobile.png)  |Works as expected                   |
+| iPhone 14          | ![screenshot](documentation/testing/responsive-iphone.png)  | ![screenshot](documentation/testing/responsive-mobile.png)  |![screenshot](documentation/testing/responsive-mobile.png)  |![screenshot](documentation/testing/responsive-mobile.png)  |Works as expected                   |
+
 
 ## Lighthouse Audit
 
