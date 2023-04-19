@@ -41,28 +41,6 @@ I've tested my deployed project on multiple browsers to check for compatibility 
 
 ## Responsiveness
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-Use this space to discuss testing the live/deployed site on various device sizes.
-
-The minimum requirement is for the following 3 tests:
-
-- Mobile
-- Tablet
-- Desktop
-
-**IMPORTANT**: You must provide screenshots of the tested responsiveness, to "prove" that you've actually tested them.
-
-Using the "amiresponsive" mockup image (or similar) does not suffice the requirements.
-Consider using some of the built-in device sizes in the Developer Tools.
-
-If you have tested the project on your actual mobile phone or tablet, consider also including screenshots of these as well.
-It showcases a higher level of manual tests, and can be seen as a positive inclusion!
-
-Sample responsiveness testing documentation:
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
 I've tested my deployed project on multiple devices to check for responsiveness issues.
 
 | Device             | Screenshot                                        | Screenshot                                        | Screenshot                                        | Screenshot                                        | Notes                               |
@@ -70,11 +48,11 @@ I've tested my deployed project on multiple devices to check for responsiveness 
 | Mobile (DevTools)  | ![screenshot](documentation/testing/responsive-mobile-dev-home.png)  | ![screenshot](documentation/testing/responsive-mobile-dev-avail.png)  |![screenshot](documentation/testing/responsive-mobile-dev-faq.png)  |![screenshot](documentation/testing/responsive-mobile-dev-contact.png)  |Works as expected                   |
 | Tablet (DevTools)  | ![screenshot](documentation/testing/responsive-tablet-dev-home.png)  | ![screenshot](documentation/testing/responsive-tablet-dev-avail.png)  |![screenshot](documentation/testing/responsive-tablet-dev-faq.png)  |![screenshot](documentation/testing/responsive-tablet-dev-contact.png)  |Works as expected                   |
 | Desktop            | ![screenshot](documentation/testing/responsive-desktop-home.png) | ![screenshot](documentation/testing/responsive-desktop-avail.png)  |![screenshot](documentation/testing/responsive-desktop-faq.png)  |![screenshot](documentation/testing/responsive-desktop-contact.png)  |Works as expected                |
-| XL Monitor         | ![screenshot](documentation/testing/responsive-xl.png)      | ![screenshot](documentation/testing/responsive-mobile.png)  |![screenshot](documentation/testing/responsive-mobile.png)  |![screenshot](documentation/testing/responsive-mobile.png)  |... |
-| 4K Monitor         | ![screenshot](documentation/testing/responsive-4k.png)      | ![screenshot](documentation/testing/responsive-mobile.png)  |![screenshot](documentation/testing/responsive-mobile.png)  |![screenshot](documentation/testing/responsive-mobile.png)  |...          |
-| Google Pixel 4a | ![screenshot](documentation/testing/responsive-pixel.png)   | ![screenshot](documentation/testing/responsive-mobile.png)  |![screenshot](documentation/testing/responsive-mobile.png)  |![screenshot](documentation/testing/responsive-mobile.png)  |...                   |
-| Samsung Galaxy S8          | ![screenshot](documentation/testing/responsive-iphone.png)  | ![screenshot](documentation/testing/responsive-mobile.png)  |![screenshot](documentation/testing/responsive-mobile.png)  |![screenshot](documentation/testing/responsive-mobile.png)  |...                  |
-| Samsung Galaxy S21 Ultra          | ![screenshot](documentation/testing/responsive-iphone.png)  | ![screenshot](documentation/testing/responsive-mobile.png)  |![screenshot](documentation/testing/responsive-mobile.png)  |![screenshot](documentation/testing/responsive-mobile.png)  |...                  |
+| Google Pixel 4a | ![screenshot](documentation/testing/responsive-mobile-pixel-home.png)   | ![screenshot](documentation/testing/responsive-mobile-pixel-avail.png)  |![screenshot](documentation/testing/responsive-mobile-pixel-faq.png)  |![screenshot](documentation/testing/responsive-mobile-pixel-contact.png)  | Works as expected                  |
+| Samsung Galaxy S8          | ![screenshot](documentation/testing/responsive-mobile-s8-home.png)  | ![screenshot](documentation/testing/responsive-mobile-s8-avail.png)  |![screenshot](documentation/testing/responsive-mobile-s8-faq.png)  |![screenshot](documentation/testing/responsive-mobile-s8-contact.png)  | Works as expected                  |
+| Samsung Galaxy S21 Ultra          | ![screenshot](documentation/testing/responsive-mobile-s21-home.png)  | ![screenshot](documentation/testing/responsive-mobile-s21-avail.png)  |![screenshot](documentation/testing/responsive-mobile-s21-faq.png)  |![screenshot](documentation/testing/responsive-mobile-s21-contact.png)  | Works as expected                   |
+| Samsung Galaxy tab 4          | ![screenshot](documentation/testing/responsive-tablet-tab4-home.png)  | ![screenshot](documentation/testing/responsive-tablet-tab4-avail.png)  |![screenshot](documentation/testing/responsive-tablet-tab4-faq.png)  |![screenshot](documentation/testing/responsive-tablet-tab4-contact.png)  | Works as expected                   |
+
 
 ## Lighthouse Audit
 
