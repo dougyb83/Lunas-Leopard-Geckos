@@ -77,13 +77,14 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
 | Page    | Size    | Screenshot                                                | Notes                                   |
 | ------- | ------- | --------------------------------------------------------- | --------------------------------------- |
-| Home    | Mobile  | ![screenshot](documentation/lighthouse-home-mobile.png)     | Some minor warnings                     |
-| Home    | Desktop | ![screenshot](documentation/lighthouse-home-desktop.png)    | Few warnings                            |
-| About   | Mobile  | ![screenshot](documentation/lighthouse-about-mobile.png)    | Some minor warnings                     |
-| About   | Desktop | ![screenshot](documentation/lighthouse-about-desktop.png)   | Few warnings                            |
-| Gallery | Mobile  | ![screenshot](documentation/lighthouse-gallery-mobile.png)  | Slow response time due to large images  |
-| Gallery | Desktop | ![screenshot](documentation/lighthouse-gallery-desktop.png) | Slow response time due to large images  |
-| x       | x       | x                                                         | repeat for any other tested pages/sizes |
+| Home    | Mobile  | ![screenshot](documentation/testing/lighthouse-home-mobile.png)     | Some minor warnings                     |
+| Home    | Desktop | ![screenshot](documentation/testing/lighthouse-home-desktop.png)    | No major problems                            |
+| Available Geckos   | Mobile  | ![screenshot](documentation/testing/lighthouse-avail-mobile.png)    | No major problems                     |
+| Available Geckos   | Desktop | ![screenshot](documentation/testing/lighthouse-avail-desktop.png)   | No major problems                            |
+| FAQ | Mobile  | ![screenshot](documentation/testing/lighthouse-faq-mobile.png)  | Some minor warnings  |
+| FAQ | Desktop | ![screenshot](documentation/testing/lighthouse-faq-desktop.png) | No major problems  |
+| Contact | Mobile | ![screenshot](documentation/testing/lighthouse-contact-desktop.png) | No major problems  |
+| Contact | Desktop | ![screenshot](documentation/testing/lighthouse-contact-desktop.png) | No major problems  |
 
 ## User Story Testing
 
