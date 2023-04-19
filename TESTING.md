@@ -83,16 +83,17 @@ from the respective feature.
 
 | User Story                                                                             | Screenshot                               |
 | -------------------------------------------------------------------------------------- | ---------------------------------------- |
-| As a new site user, I would like to ____________, so that I can ____________.          | ![screenshot](documentation/feature01.png) |
-| As a new site user, I would like to ____________, so that I can ____________.          | ![screenshot](documentation/feature02.png) |
-| As a new site user, I would like to ____________, so that I can ____________.          | ![screenshot](documentation/feature03.png) |
-| As a returning site user, I would like to ____________, so that I can ____________.    | ![screenshot](documentation/feature04.png) |
-| As a returning site user, I would like to ____________, so that I can ____________.    | ![screenshot](documentation/feature05.png) |
-| As a returning site user, I would like to ____________, so that I can ____________.    | ![screenshot](documentation/feature06.png) |
-| As a site administrator, I should be able to ____________, so that I can ____________. | ![screenshot](documentation/feature07.png) |
-| As a site administrator, I should be able to ____________, so that I can ____________. | ![screenshot](documentation/feature08.png) |
-| As a site administrator, I should be able to ____________, so that I can ____________. | ![screenshot](documentation/feature09.png) |
-| repeat for all remaining user stories                                                  | x                                        |
+| As a new site user, I would like to quickly see the sites purpose.          | ![screenshot](documentation/jumbotron.png) |
+| As a new site user, I would like to see clear navigation, so that I can easily move back and forward between pages.          | ![screenshot](documentation/navbar-desktop.png) |
+| As a new site user, I would like any information to be clear and to the point, so that I can make an informed decision.          | ![screenshot](documentation/faq-cards.png) |
+| As a new site user, I would like to be able to contact the site owner, so that I can make a purchase.          | ![screenshot](documentation/contact-form.png) |
+| As a new site user, I would like to find the sites social media pages.          | ![screenshot](documentation/footer.png) |
+| As a new site user, I would like to view the site on any device.          | ![screenshot](documentation/testing/responsive-mobile-s21-home.png) |
+| As a returning site user, I would like to see up to date stock information.    | ![screenshot](documentation/testing/browser-chrome-avail.png) |
+| As a returning site user, I would like to refresh my knowledge by viewing fact references.    | ![screenshot](documentation/faq-cards.png) |
+| As a site administrator, The code should have proper indentation so that it is clear for myself and others to read. | ![screenshot](documentation/code-example.png) |
+| As a site administrator, The code should be properly signposted to make it easy to navigate. | ![screenshot](documentation/code-example.png) |
+| As a site administrator, I should be able to respond to user enquiries. | ![screenshot](documentation/contact-form.png) |
 
 ## Bugs
 

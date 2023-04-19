@@ -51,14 +51,12 @@ I used [coolors.co](https://coolors.co/ff5d00-dcc429-e0ece4-f1fef5) to generate 
 ### Returning Site Users
 
 - I would like to see up to date stock information.
-- I would like to look at new pictures.
 - I would like to refresh my knowledge by viewing fact references.
 
 ### Site Admin
 
 - The code should have proper indentation so that it is clear for myself and others to read.
 - The code should be properly signposted to make it easy to navigate.
-- I should be able to manage the sites content, so that i can keep it up to date.
 - I should be able to respond to user enquiries.
 
 ## Wireframes
