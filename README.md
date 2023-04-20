@@ -1,6 +1,6 @@
 # LUNA'S LEOPARD GECKOS
 
-Luna's Leopard Geckos are an enthusiastic hobbyist breeder. They have been successfully breeding geckos for many years with their most recent aim to reach a wider audience of like minded reptile keepers and provide them with high quality and healthy pets.
+Luna's Leopard Geckos are an enthusiastic hobbyist breeder. They have been successfully breeding geckos for many years with their most recent aim to reach a wider audience of like-minded reptile keepers and provide them with high quality and healthy pets.
 
 On this site users will find a brief description of who the client is, reassuring users that they will be purchasing from a reputable breeder. Users can also find a catalogue of available geckos along with a FAQ page that will be especially helpful to new keepers.
 
@@ -12,11 +12,11 @@ Users can get in contact with the client via the contact page or by redirecting 
 
 ## UX
 
-Upon landing on the home page I wanted it to be clear to the user that the site is focused on Leopard geckos and selling them. As Leopard geckos are naturally very colourful, bright and vibrant it makes sense to have a picture of one as the main focus point. This will be the hero image. It will be the full width of the screen but will not be the full height so that users can see that there is more to see below if they were to scroll down.
+Upon landing on the home page, I wanted it to be clear to the user that the site is focused on Leopard geckos and selling them. As Leopard geckos are naturally very colourful, bright and vibrant it makes sense to have a picture of one as the main focus point. This will be the hero image. It will be the full width of the screen but will not be the full height so that users can see that there is more to see below if they were to scroll down.
 
 ### Colour Scheme
 
-Leopard geckos can have many bright colours, but the most common are yellow or orange with black and white stripes and dots. this will influence the colour scheme using black/grey for the background and nav bar, yellow for logo's and orange for buttons and sub headings. But keeping main titles and text white as I feel adding colours to these made them more difficult to read.
+Leopard geckos can have many bright colours, but the most common are yellow or orange with black and white stripes and dots. this will influence the colour scheme using black/grey for the background and nav bar, yellow for logos and orange for buttons and subheadings. But keeping main titles and text white as I feel adding colours to these made them more difficult to read.
 
 - `#f1fef5` used for primary text.
 - `#ff5d00` used for primary highlights.
@@ -35,7 +35,7 @@ I used [coolors.co](https://coolors.co/ff5d00-dcc429-e0ece4-f1fef5) to generate 
 - [Averia Gruesa Libre](https://fonts.google.com/specimen/Averia+Gruesa+Libre) was used for sub headings.
 - [Sarala](https://fonts.google.com/specimen/Sarala) was used for all other secondary text.
 
-[Montserrat](https://fonts.google.com/specimen/Montserrat) and [Sarala](https://fonts.google.com/specimen/Sarala) were selected as they are both readable and clear fonts which is ideal for main headings and large sections of text. [Averia Gruesa Libre](https://fonts.google.com/specimen/Averia+Gruesa+Libre) was choosen for its more stylistic properties to break the text up and give the page more character.
+[Montserrat](https://fonts.google.com/specimen/Montserrat) and [Sarala](https://fonts.google.com/specimen/Sarala) were selected as they are both readable and clear fonts which is ideal for main headings and large sections of text. [Averia Gruesa Libre](https://fonts.google.com/specimen/Averia+Gruesa+Libre) was chosen for its more stylistic properties to break the text up and give the page more character.
 
 [Font Awesome](https://fontawesome.com) icons were used throughout the site, such as the social media icons in the footer.
 
@@ -140,7 +140,7 @@ Navbar dropdown menu as seen on mobile devices
 
 - **Footer**
 
-  - Repeated at the bottom of each page is the footer. It has a picture of a leopard gecko than spans the full width of the screen and when fully in view takes up 30% fo the viewport height. In the center are three social media icons which, on mouse hover will change colour to yellow and when clicked, will open up a new tab so as not to take the user away from our page. To the left is the sites logo which links to the homepage and on the right is some copyright information.
+  - Repeated at the bottom of each page is the footer. It has a picture of a leopard gecko than spans the full width of the screen and when fully in view takes up 30% of the viewport height. In the center are three social media icons which, on mouse hover will change colour to yellow and when clicked, will open up a new tab so as not to take the user away from our page. To the left is the sites logo which links to the homepage and on the right is some copyright information.
 
 Here the footer can be seen with the highlighted Facebook icon.
 
@@ -150,7 +150,7 @@ Here the footer can be seen with the highlighted Facebook icon.
 
   - Each of the main pages has it's own hero image of a leopard gecko to draw the user in. The hero images span the full width of the page but do not cover the full height. This is so the user can see that there is more to be seen further down the page.
 
-Here we can see the hero image as displayed on the contact page where the user is drawn further down the page with the visibilty of more information.
+Here we can see the hero image as displayed on the contact page where the user is drawn further down the page with the visibility of more information.
 
 ![screenshot](documentation/hero-image.png)
 
@@ -160,7 +160,7 @@ Here we can see the hero image as displayed on the contact page where the user i
 
   - An about section with a brief description of who we are and what we offer
 
-  - A static gallery to show some of the sites available geckos with a button that also turns solid orange when hovered over. This links to the 'available geckos' page. The static galler reduces down to two images when viewed on mobile devices.
+  - A static gallery to show some of the sites available geckos with a button that also turns solid orange when hovered over. This links to the 'available geckos' page. The static gallery reduces down to two images when viewed on mobile devices.
 
 Jumbotron.
 
@@ -192,7 +192,7 @@ Available gecko cards when viewed on a mobile device.
 
 - **FAQ page**
 
-  - This page displays cards with information about leopard geckos on them so that users can make informed descisions when deciding whether or not to buy a gecko. 
+  - This page displays cards with information about leopard geckos on them so that users can make informed decisions when deciding whether or not to buy a gecko. 
 
 FAQ cards viewed on desktop.
 
@@ -204,7 +204,7 @@ FAQ cards when viewed on a mobile device.
 
 - **Contact page**
 
-  - Here the user can contact the site owner with the option to refernce a particular gecko if making an enquiry. The 'Send message' button turns solid orange when hovered over. When clicked, the confirmation page will load.
+  - Here the user can contact the site owner with the option to reference a particular gecko if making an enquiry. The 'Send message' button turns solid orange when hovered over. When clicked, the confirmation page will load.
 
 Contact form.
 
