@@ -98,13 +98,13 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
   ![screenshot](documentation/bugs/vertical-space-bug.png)
 
-  - When implementing the 'static gallery' on the home page I initially hadn't placed a 'container' before the bootrap row and column that the 'static gallery' was inside of. Adding this container fixed the issue.
+  - When implementing the 'static gallery' on the home page I initially hadn't placed a 'container' before the bootstrap row and column that the 'static gallery' was inside of. Adding this container fixed the issue.
 
-- CSS class affecting uninteded elements
+- CSS class affecting unintended  elements
 
   ![screenshot](documentation/bugs/p-style-bug.png)
 
-  - I found that this class was affecting 'p' elements that were within other classes, where my intention was to only affect the 'p' elements withing 'avail-geck-card'. I later discover my sytax was incorrect and fixed the problem by targeting the 'h4' and 'p' element separately i.e. '.avail-gecko-card h4{}' and '.avail-gecko-card p{}' (these later became 'h3' and 'span').
+  - I found that this class was affecting 'p' elements that were within other classes, where my intention was to only affect the 'p' elements withing 'avail-gecko-card'. I later discover my syntax was incorrect and fixed the problem by targeting the 'h4' and 'p' element separately i.e. '.avail-gecko-card h4{}' and '.avail-gecko-card p{}' (these later became 'h3' and 'span').
 - Horizontal rule not centered on mobile devices
 
   ![screenshot](documentation/bugs/hr-bug.png)
@@ -120,7 +120,7 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
   ![screenshot](documentation/bugs/carousel-chevron-bug.png)
 
   - To fix this, I set the z-index of the carousel control classes to 0.
-- footer icon missalignment at 320px
+- Footer icon misalignment  at 320px
 
   ![screenshot](documentation/bugs/icon-alignment-bug.png)
 
