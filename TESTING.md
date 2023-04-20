@@ -78,7 +78,7 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 | As a new site user, I would like any information to be clear and to the point, so that I can make an informed decision.          | ![screenshot](documentation/faq-cards.png) |
 | As a new site user, I would like to be able to contact the site owner, so that I can make a purchase.          | ![screenshot](documentation/contact-form.png) |
 | As a new site user, I would like to find the sites social media pages.          | ![screenshot](documentation/footer.png) |
-| As a new site user, I would like to view the site on any device.          | ![screenshot](documentation/testing/responsive-mobile-s21-home.png) |
+| As a new site user, I would like to view the site on any device.          | ![screenshot](documentation/any-device.png) |
 | As a returning site user, I would like to see up to date stock information.    | ![screenshot](documentation/testing/browser-chrome-avail.png) |
 | As a returning site user, I would like to refresh my knowledge by viewing fact references.    | ![screenshot](documentation/faq-cards.png) |
 | As a site administrator, The code should have proper indentation so that it is clear for myself and others to read. | ![screenshot](documentation/code-example.png) |
@@ -87,31 +87,45 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
 ## Bugs
 
-- JS Uncaught ReferenceError: `foobar` is undefined/not defined
+- Navbar not reaching page edges
 
-  ![screenshot](documentation/bug01.png)
+  ![screenshot](documentation/bugs/navbar-bug.png)
 
-  - To fix this, I _____________________.
-- JS `'let'` or `'const'` or `'template literal syntax'` or `'arrow function syntax (=>)'` is available in ES6 (use `'esversion: 11'`) or Mozilla JS extensions (use moz).
+  - To fix this, I set padding-left and padding-right to 0.
 
-  ![screenshot](documentation/bug02.png)
 
-  - To fix this, I _____________________.
-- Python `'ModuleNotFoundError'` when trying to import module from imported package
+- Vertical space on right side of homepage
 
-  ![screenshot](documentation/bug03.png)
+  ![screenshot](documentation/bugs/vertical-space-bug.png)
 
-  - To fix this, I _____________________.
-- Django `TemplateDoesNotExist` at /appname/path appname/template_name.html
+  - When implementing the 'static gallery' on the home page I initially hadn't placed a 'container' before the bootrap row and column that the 'static gallery' was inside of. Adding this container fixed the issue.
 
-  ![screenshot](documentation/bug04.png)
+- CSS class affecting uninteded elements
 
-  - To fix this, I _____________________.
-- Python `E501 line too long` (93 > 79 characters)
+  ![screenshot](documentation/bugs/p-style-bug.png)
 
-  ![screenshot](documentation/bug04.png)
+  - I found that this class was affecting 'p' elements that were within other classes, where my intention was to only affect the 'p' elements withing 'avail-geck-card'. I later discover my sytax was incorrect and fixed the problem by targeting the 'h4' and 'p' element separately i.e. '.avail-gecko-card h4{}' and '.avail-gecko-card p{}' (these later became 'h3' and 'span').
+- Horizontal rule not centered on mobile devices
 
-  - To fix this, I _____________________.
+  ![screenshot](documentation/bugs/hr-bug.png)
+
+  - To fix this, I reduced the width of the horizontal rule as it was overflowing.
+- Navbar disappearing or text flowing over it after setting position to fixed
+
+  ![screenshot](documentation/bugs/navbar-z-index-bug.png)
+
+  - To fix this, I set the navbar z-index to 1.
+- Bootstrap carousel chevrons appearing above the navbar
+
+  ![screenshot](documentation/bugs/carousel-chevron-bug.png)
+
+  - To fix this, I set the z-index of the carousel control classes to 0.
+- footer icon missalignment at 320px
+
+  ![screenshot](documentation/bugs/icon-alignment-bug.png)
+
+  - To fix this, I applied the following .list-inline-item:not(:last-child) {
+    margin-right: 0.4rem;} as per my mentor, Tim Nelsons advice.
 
 ## Unfixed Bugs
 
