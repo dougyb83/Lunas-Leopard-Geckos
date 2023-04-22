@@ -118,7 +118,7 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 
   ![screenshot](documentation/bugs/icon-alignment-bug.png)
 
-  - To fix this, I applied the following to mt css as per my mentor, Tim Nelsons advice.
+  - To fix this, I applied the following to the css as per my mentor, Tim Nelsons advice.
 
   ```css
   .list-inline-item:not(:last-child) {
